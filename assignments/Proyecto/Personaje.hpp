@@ -1,6 +1,7 @@
 #pragma once
 #include <string>
 #include <iostream>
+#include <stdexcept>
 
 // Clase base para las unidades de combate del simulador de batallas.
 // Es abstracta: revive() es virtual puro, asi que no se puede instanciar
@@ -17,6 +18,9 @@ private:
 public:
     // Constructores
     Personaje();
+
+    // Lanza std::invalid_argument si vida <= 0, ataque < 0 o nivel < 1:
+    // esos valores romperian porcentajeSalud(), calculaAtaque() y revive().
     Personaje(std::string nombre, int vida, int ataque, int nivel);
 
     // Destructor virtual: obligatorio al usar herencia con punteros a la base

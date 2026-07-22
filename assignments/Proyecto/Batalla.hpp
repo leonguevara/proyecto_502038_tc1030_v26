@@ -14,6 +14,8 @@ private:
     std::string archivoSalida; // nombre del archivo donde se guarda el detalle de la batalla
 
 public:
+    // Lanza std::invalid_argument si alguno de los dos ejercitos ya esta
+    // vacio: no hay batalla que correr sin al menos un elemento por bando.
     Batalla(Ejercito& ejercito1, Ejercito& ejercito2);
 
     // Corre la batalla completa, ronda por ronda, hasta que un ejercito

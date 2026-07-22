@@ -11,6 +11,9 @@ private:
 
 public:
     Guerrero();
+
+    // Ademas de lo que valida Personaje, lanza std::invalid_argument si
+    // fuerza es negativa.
     Guerrero(std::string nombre, int vida, int ataque, int nivel, int fuerza);
 
     int getFuerza() const;

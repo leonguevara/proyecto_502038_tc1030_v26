@@ -5,6 +5,7 @@
 #include <iostream>
 #include <fstream>
 #include <cstdlib>
+#include <stdexcept>
 
 using namespace std;
 
@@ -19,6 +20,11 @@ namespace
 
 Ejercito::Ejercito(int maxUnidades, string nombreEjercito)
 {
+    if (maxUnidades <= 0)
+    {
+        throw invalid_argument("Ejercito '" + nombreEjercito + "': maxUnidades debe ser mayor a 0 (recibido " + to_string(maxUnidades) + ")");
+    }
+
     this->maxUnidades = maxUnidades;
     this->nombreEjercito = nombreEjercito;
     numGuerreros = 0;
@@ -155,15 +161,14 @@ string Ejercito::getNombreEjercito() const { return nombreEjercito; }
 
 vector<string> Ejercito::cargarNombres(const string& rutaArchivo)
 {
-    vector<string> nombres;
     ifstream archivo(rutaArchivo);
 
     if (!archivo.is_open())
     {
-        cout << "Aviso: no se pudo abrir el archivo de nombres: " << rutaArchivo << endl;
-        return nombres;
+        throw runtime_error("No se pudo abrir el archivo de nombres: " + rutaArchivo);
     }
 
+    vector<string> nombres;
     string linea;
     while (getline(archivo, linea))
     {

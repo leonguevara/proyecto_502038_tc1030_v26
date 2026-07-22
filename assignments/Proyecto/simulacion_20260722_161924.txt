@@ -1,0 +1,1401 @@
+
+-- Ronda 1: Ejercito del Norte ataca --
+[Harding] Nvl:3 | Salud:147/147 (100%) | Ataque:11 | Mana:91  VS  [Tar-Amandil] Nvl:1 | Salud:124/124 (100%) | Ataque:12 | Fuerza:15
+Harding ataca a Tar-Amandil con 5 puntos de danio.
+--------------------------------
+Nombre: Tar-Amandil
+Nivel: 1
+Ataque: 12
+Salud: 119 / 124
+[%%%%%%%%%%%%%%%%%%%=] 95%
+--------------------------------
+Clase: Guerrero | Fuerza: 15
+
+-- Ronda 2: Ejercito del Sur ataca --
+[Tar-Amandil] Nvl:1 | Salud:119/124 (95%) | Ataque:12 | Fuerza:15  VS  [Harding] Nvl:3 | Salud:147/147 (100%) | Ataque:11 | Mana:91
+Tar-Amandil ataca a Harding con 9 puntos de danio.
+--------------------------------
+Nombre: Harding
+Nivel: 3
+Ataque: 11
+Salud: 143 / 147
+[%%%%%%%%%%%%%%%%%%%=] 97%
+--------------------------------
+Clase: Mago | Mana: 91
+
+-- Ronda 3: Ejercito del Norte ataca --
+[Harding] Nvl:3 | Salud:143/147 (97%) | Ataque:11 | Mana:91  VS  [Tar-Amandil] Nvl:1 | Salud:119/124 (95%) | Ataque:12 | Fuerza:15
+  >> ¡Hechizo fuerte!
+Harding ataca a Tar-Amandil con 22 puntos de danio.
+--------------------------------
+Nombre: Tar-Amandil
+Nivel: 1
+Ataque: 12
+Salud: 97 / 124
+[%%%%%%%%%%%%%%%=====] 78%
+--------------------------------
+Clase: Guerrero | Fuerza: 15
+
+-- Ronda 4: Ejercito del Sur ataca --
+[Tar-Amandil] Nvl:1 | Salud:97/124 (78%) | Ataque:12 | Fuerza:15  VS  [Harding] Nvl:3 | Salud:143/147 (97%) | Ataque:11 | Mana:71
+Tar-Amandil ataca a Harding con 6 puntos de danio.
+--------------------------------
+Nombre: Harding
+Nivel: 3
+Ataque: 11
+Salud: 137 / 147
+[%%%%%%%%%%%%%%%%%%==] 93%
+--------------------------------
+Clase: Mago | Mana: 71
+
+-- Ronda 5: Ejercito del Norte ataca --
+[Harding] Nvl:3 | Salud:137/147 (93%) | Ataque:11 | Mana:71  VS  [Tar-Amandil] Nvl:1 | Salud:97/124 (78%) | Ataque:12 | Fuerza:15
+Harding ataca a Tar-Amandil con 7 puntos de danio.
+--------------------------------
+Nombre: Tar-Amandil
+Nivel: 1
+Ataque: 12
+Salud: 90 / 124
+[%%%%%%%%%%%%%%======] 72%
+--------------------------------
+Clase: Guerrero | Fuerza: 15
+
+-- Ronda 6: Ejercito del Sur ataca --
+[Tar-Amandil] Nvl:1 | Salud:90/124 (72%) | Ataque:12 | Fuerza:15  VS  [Harding] Nvl:3 | Salud:137/147 (93%) | Ataque:11 | Mana:71
+Tar-Amandil ataca a Harding con 4 puntos de danio.
+--------------------------------
+Nombre: Harding
+Nivel: 3
+Ataque: 11
+Salud: 133 / 147
+[%%%%%%%%%%%%%%%%%%==] 90%
+--------------------------------
+Clase: Mago | Mana: 71
+
+-- Ronda 7: Ejercito del Norte ataca --
+[Harding] Nvl:3 | Salud:133/147 (90%) | Ataque:11 | Mana:71  VS  [Tar-Amandil] Nvl:1 | Salud:90/124 (72%) | Ataque:12 | Fuerza:15
+Harding ataca a Tar-Amandil con 5 puntos de danio.
+--------------------------------
+Nombre: Tar-Amandil
+Nivel: 1
+Ataque: 12
+Salud: 85 / 124
+[%%%%%%%%%%%%%=======] 68%
+--------------------------------
+Clase: Guerrero | Fuerza: 15
+
+-- Ronda 8: Ejercito del Sur ataca --
+[Tar-Amandil] Nvl:1 | Salud:85/124 (68%) | Ataque:12 | Fuerza:15  VS  [Harding] Nvl:3 | Salud:133/147 (90%) | Ataque:11 | Mana:71
+Tar-Amandil ataca a Harding con 8 puntos de danio.
+--------------------------------
+Nombre: Harding
+Nivel: 3
+Ataque: 11
+Salud: 125 / 147
+[%%%%%%%%%%%%%%%%%===] 85%
+--------------------------------
+Clase: Mago | Mana: 71
+
+-- Ronda 9: Ejercito del Norte ataca --
+[Harding] Nvl:3 | Salud:125/147 (85%) | Ataque:11 | Mana:71  VS  [Tar-Amandil] Nvl:1 | Salud:85/124 (68%) | Ataque:12 | Fuerza:15
+Harding ataca a Tar-Amandil con 10 puntos de danio.
+--------------------------------
+Nombre: Tar-Amandil
+Nivel: 1
+Ataque: 12
+Salud: 75 / 124
+[%%%%%%%%%%%%========] 60%
+--------------------------------
+Clase: Guerrero | Fuerza: 15
+
+-- Ronda 10: Ejercito del Sur ataca --
+[Tar-Amandil] Nvl:1 | Salud:75/124 (60%) | Ataque:12 | Fuerza:15  VS  [Harding] Nvl:3 | Salud:125/147 (85%) | Ataque:11 | Mana:71
+Tar-Amandil ataca a Harding con 6 puntos de danio.
+--------------------------------
+Nombre: Harding
+Nivel: 3
+Ataque: 11
+Salud: 119 / 147
+[%%%%%%%%%%%%%%%%====] 80%
+--------------------------------
+Clase: Mago | Mana: 71
+
+-- Ronda 11: Ejercito del Norte ataca --
+[Harding] Nvl:3 | Salud:119/147 (80%) | Ataque:11 | Mana:71  VS  [Tar-Amandil] Nvl:1 | Salud:75/124 (60%) | Ataque:12 | Fuerza:15
+Harding ataca a Tar-Amandil con 5 puntos de danio.
+--------------------------------
+Nombre: Tar-Amandil
+Nivel: 1
+Ataque: 12
+Salud: 70 / 124
+[%%%%%%%%%%%=========] 56%
+--------------------------------
+Clase: Guerrero | Fuerza: 15
+
+-- Ronda 12: Ejercito del Sur ataca --
+[Tar-Amandil] Nvl:1 | Salud:70/124 (56%) | Ataque:12 | Fuerza:15  VS  [Harding] Nvl:3 | Salud:119/147 (80%) | Ataque:11 | Mana:71
+Tar-Amandil ataca a Harding con 6 puntos de danio.
+--------------------------------
+Nombre: Harding
+Nivel: 3
+Ataque: 11
+Salud: 113 / 147
+[%%%%%%%%%%%%%%%=====] 76%
+--------------------------------
+Clase: Mago | Mana: 71
+
+-- Ronda 13: Ejercito del Norte ataca --
+[Harding] Nvl:3 | Salud:113/147 (76%) | Ataque:11 | Mana:71  VS  [Tar-Amandil] Nvl:1 | Salud:70/124 (56%) | Ataque:12 | Fuerza:15
+Harding ataca a Tar-Amandil con 8 puntos de danio.
+--------------------------------
+Nombre: Tar-Amandil
+Nivel: 1
+Ataque: 12
+Salud: 62 / 124
+[%%%%%%%%%%==========] 50%
+--------------------------------
+Clase: Guerrero | Fuerza: 15
+
+-- Ronda 14: Ejercito del Sur ataca --
+[Tar-Amandil] Nvl:1 | Salud:62/124 (50%) | Ataque:12 | Fuerza:15  VS  [Harding] Nvl:3 | Salud:113/147 (76%) | Ataque:11 | Mana:71
+Tar-Amandil ataca a Harding con 8 puntos de danio.
+--------------------------------
+Nombre: Harding
+Nivel: 3
+Ataque: 11
+Salud: 105 / 147
+[%%%%%%%%%%%%%%======] 71%
+--------------------------------
+Clase: Mago | Mana: 71
+
+-- Ronda 15: Ejercito del Norte ataca --
+[Harding] Nvl:3 | Salud:105/147 (71%) | Ataque:11 | Mana:71  VS  [Tar-Amandil] Nvl:1 | Salud:62/124 (50%) | Ataque:12 | Fuerza:15
+  >> ¡Hechizo fuerte!
+Harding ataca a Tar-Amandil con 10 puntos de danio.
+--------------------------------
+Nombre: Tar-Amandil
+Nivel: 1
+Ataque: 12
+Salud: 52 / 124
+[%%%%%%%%============] 41%
+--------------------------------
+Clase: Guerrero | Fuerza: 15
+
+-- Ronda 16: Ejercito del Sur ataca --
+[Tar-Amandil] Nvl:1 | Salud:52/124 (41%) | Ataque:12 | Fuerza:15  VS  [Harding] Nvl:3 | Salud:105/147 (71%) | Ataque:11 | Mana:51
+Tar-Amandil ataca a Harding con 8 puntos de danio.
+--------------------------------
+Nombre: Harding
+Nivel: 3
+Ataque: 11
+Salud: 97 / 147
+[%%%%%%%%%%%%%=======] 65%
+--------------------------------
+Clase: Mago | Mana: 51
+
+-- Ronda 17: Ejercito del Norte ataca --
+[Harding] Nvl:3 | Salud:97/147 (65%) | Ataque:11 | Mana:51  VS  [Tar-Amandil] Nvl:1 | Salud:52/124 (41%) | Ataque:12 | Fuerza:15
+Harding ataca a Tar-Amandil con 11 puntos de danio.
+--------------------------------
+Nombre: Tar-Amandil
+Nivel: 1
+Ataque: 12
+Salud: 41 / 124
+[%%%%%%==============] 33%
+--------------------------------
+Clase: Guerrero | Fuerza: 15
+
+-- Ronda 18: Ejercito del Sur ataca --
+[Tar-Amandil] Nvl:1 | Salud:41/124 (33%) | Ataque:12 | Fuerza:15  VS  [Harding] Nvl:3 | Salud:97/147 (65%) | Ataque:11 | Mana:51
+Tar-Amandil ataca a Harding con 5 puntos de danio.
+--------------------------------
+Nombre: Harding
+Nivel: 3
+Ataque: 11
+Salud: 92 / 147
+[%%%%%%%%%%%%========] 62%
+--------------------------------
+Clase: Mago | Mana: 51
+
+-- Ronda 19: Ejercito del Norte ataca --
+[Harding] Nvl:3 | Salud:92/147 (62%) | Ataque:11 | Mana:51  VS  [Tar-Amandil] Nvl:1 | Salud:41/124 (33%) | Ataque:12 | Fuerza:15
+Harding ataca a Tar-Amandil con 9 puntos de danio.
+--------------------------------
+Nombre: Tar-Amandil
+Nivel: 1
+Ataque: 12
+Salud: 32 / 124
+[%%%%%===============] 25%
+--------------------------------
+Clase: Guerrero | Fuerza: 15
+
+-- Ronda 20: Ejercito del Sur ataca --
+[Tar-Amandil] Nvl:1 | Salud:32/124 (25%) | Ataque:12 | Fuerza:15  VS  [Harding] Nvl:3 | Salud:92/147 (62%) | Ataque:11 | Mana:51
+Tar-Amandil ataca a Harding con 4 puntos de danio.
+--------------------------------
+Nombre: Harding
+Nivel: 3
+Ataque: 11
+Salud: 88 / 147
+[%%%%%%%%%%%=========] 59%
+--------------------------------
+Clase: Mago | Mana: 51
+
+-- Ronda 21: Ejercito del Norte ataca --
+[Harding] Nvl:3 | Salud:88/147 (59%) | Ataque:11 | Mana:51  VS  [Tar-Amandil] Nvl:1 | Salud:32/124 (25%) | Ataque:12 | Fuerza:15
+Harding ataca a Tar-Amandil con 10 puntos de danio.
+--------------------------------
+Nombre: Tar-Amandil
+Nivel: 1
+Ataque: 12
+Salud: 22 / 124
+[%%%=================] 17%
+--------------------------------
+Clase: Guerrero | Fuerza: 15
+
+-- Ronda 22: Ejercito del Sur ataca --
+[Tar-Amandil] Nvl:1 | Salud:22/124 (17%) | Ataque:12 | Fuerza:15  VS  [Harding] Nvl:3 | Salud:88/147 (59%) | Ataque:11 | Mana:51
+Tar-Amandil ataca a Harding con 9 puntos de danio.
+--------------------------------
+Nombre: Harding
+Nivel: 3
+Ataque: 11
+Salud: 79 / 147
+[%%%%%%%%%%==========] 53%
+--------------------------------
+Clase: Mago | Mana: 51
+
+-- Ronda 23: Ejercito del Norte ataca --
+[Harding] Nvl:3 | Salud:79/147 (53%) | Ataque:11 | Mana:51  VS  [Tar-Amandil] Nvl:1 | Salud:22/124 (17%) | Ataque:12 | Fuerza:15
+Harding ataca a Tar-Amandil con 5 puntos de danio.
+--------------------------------
+Nombre: Tar-Amandil
+Nivel: 1
+Ataque: 12
+Salud: 17 / 124
+[%%==================] 13%
+--------------------------------
+Clase: Guerrero | Fuerza: 15
+
+-- Ronda 24: Ejercito del Sur ataca --
+[Tar-Amandil] Nvl:1 | Salud:17/124 (13%) | Ataque:12 | Fuerza:15  VS  [Harding] Nvl:3 | Salud:79/147 (53%) | Ataque:11 | Mana:51
+Tar-Amandil ataca a Harding con 7 puntos de danio.
+--------------------------------
+Nombre: Harding
+Nivel: 3
+Ataque: 11
+Salud: 72 / 147
+[%%%%%%%%%===========] 48%
+--------------------------------
+Clase: Mago | Mana: 51
+
+-- Ronda 25: Ejercito del Norte ataca --
+[Harding] Nvl:3 | Salud:72/147 (48%) | Ataque:11 | Mana:51  VS  [Tar-Amandil] Nvl:1 | Salud:17/124 (13%) | Ataque:12 | Fuerza:15
+Harding ataca a Tar-Amandil con 9 puntos de danio.
+--------------------------------
+Nombre: Tar-Amandil
+Nivel: 1
+Ataque: 12
+Salud: 8 / 124
+[%===================] 6%
+--------------------------------
+Clase: Guerrero | Fuerza: 15
+
+-- Ronda 26: Ejercito del Sur ataca --
+[Tar-Amandil] Nvl:1 | Salud:8/124 (6%) | Ataque:12 | Fuerza:15  VS  [Harding] Nvl:3 | Salud:72/147 (48%) | Ataque:11 | Mana:51
+Tar-Amandil ataca a Harding con 9 puntos de danio.
+--------------------------------
+Nombre: Harding
+Nivel: 3
+Ataque: 11
+Salud: 63 / 147
+[%%%%%%%%============] 42%
+--------------------------------
+Clase: Mago | Mana: 51
+
+-- Ronda 27: Ejercito del Norte ataca --
+[Harding] Nvl:3 | Salud:63/147 (42%) | Ataque:11 | Mana:51  VS  [Tar-Amandil] Nvl:1 | Salud:8/124 (6%) | Ataque:12 | Fuerza:15
+Harding ataca a Tar-Amandil con 5 puntos de danio.
+--------------------------------
+Nombre: Tar-Amandil
+Nivel: 1
+Ataque: 12
+Salud: 3 / 124
+[====================] 2%
+--------------------------------
+Clase: Guerrero | Fuerza: 15
+
+-- Ronda 28: Ejercito del Sur ataca --
+[Tar-Amandil] Nvl:1 | Salud:3/124 (2%) | Ataque:12 | Fuerza:15  VS  [Harding] Nvl:3 | Salud:63/147 (42%) | Ataque:11 | Mana:51
+Tar-Amandil ataca a Harding con 6 puntos de danio.
+--------------------------------
+Nombre: Harding
+Nivel: 3
+Ataque: 11
+Salud: 57 / 147
+[%%%%%%%=============] 38%
+--------------------------------
+Clase: Mago | Mana: 51
+
+-- Ronda 29: Ejercito del Norte ataca --
+[Harding] Nvl:3 | Salud:57/147 (38%) | Ataque:11 | Mana:51  VS  [Tar-Amandil] Nvl:1 | Salud:3/124 (2%) | Ataque:12 | Fuerza:15
+Harding ataca a Tar-Amandil con 6 puntos de danio.
+  >> Tar-Amandil ha caido en batalla.
+  >> El mago absorbe energia y recupera mana.
+--------------------------------
+Nombre: Tar-Amandil
+Nivel: 1
+Ataque: 12
+Salud: 0 / 124
+[====================] 0%
+--------------------------------
+Clase: Guerrero | Fuerza: 15
+
+-- Ronda 30: Ejercito del Sur ataca --
+[Herb-master] Nvl:4 | Salud:146/146 (100%) | Ataque:26 | Fuerza:28  VS  [Harding] Nvl:3 | Salud:57/147 (38%) | Ataque:11 | Mana:66
+Herb-master ataca a Harding con 26 puntos de danio.
+--------------------------------
+Nombre: Harding
+Nivel: 3
+Ataque: 11
+Salud: 31 / 147
+[%%%%================] 21%
+--------------------------------
+Clase: Mago | Mana: 66
+
+-- Ronda 31: Ejercito del Norte ataca --
+[Harding] Nvl:3 | Salud:31/147 (21%) | Ataque:11 | Mana:66  VS  [Herb-master] Nvl:4 | Salud:146/146 (100%) | Ataque:26 | Fuerza:28
+  >> ¡Hechizo fuerte!
+Harding ataca a Herb-master con 2 puntos de danio.
+--------------------------------
+Nombre: Herb-master
+Nivel: 4
+Ataque: 26
+Salud: 144 / 146
+[%%%%%%%%%%%%%%%%%%%=] 98%
+--------------------------------
+Clase: Guerrero | Fuerza: 28
+
+-- Ronda 32: Ejercito del Sur ataca --
+[Herb-master] Nvl:4 | Salud:144/146 (98%) | Ataque:26 | Fuerza:28  VS  [Harding] Nvl:3 | Salud:31/147 (21%) | Ataque:11 | Mana:46
+Herb-master ataca a Harding con 30 puntos de danio.
+--------------------------------
+Nombre: Harding
+Nivel: 3
+Ataque: 11
+Salud: 1 / 147
+[====================] 0%
+--------------------------------
+Clase: Mago | Mana: 46
+
+-- Ronda 33: Ejercito del Norte ataca --
+[Harding] Nvl:3 | Salud:1/147 (0%) | Ataque:11 | Mana:46  VS  [Herb-master] Nvl:4 | Salud:144/146 (98%) | Ataque:26 | Fuerza:28
+  >> ¡Hechizo fuerte!
+Harding ataca a Herb-master con 8 puntos de danio.
+--------------------------------
+Nombre: Herb-master
+Nivel: 4
+Ataque: 26
+Salud: 136 / 146
+[%%%%%%%%%%%%%%%%%%==] 93%
+--------------------------------
+Clase: Guerrero | Fuerza: 28
+
+-- Ronda 34: Ejercito del Sur ataca --
+[Herb-master] Nvl:4 | Salud:136/146 (93%) | Ataque:26 | Fuerza:28  VS  [Harding] Nvl:3 | Salud:1/147 (0%) | Ataque:11 | Mana:26
+Herb-master ataca a Harding con 23 puntos de danio.
+  >> Harding ha caido en batalla.
+--------------------------------
+Nombre: Harding
+Nivel: 3
+Ataque: 11
+Salud: 0 / 147
+[====================] 0%
+--------------------------------
+Clase: Mago | Mana: 26
+
+-- Ronda 35: Ejercito del Norte ataca --
+[Eldacar of Arnor] Nvl:2 | Salud:106/106 (100%) | Ataque:15 | Precision:38%  VS  [Herb-master] Nvl:4 | Salud:136/146 (93%) | Ataque:26 | Fuerza:28
+Eldacar of Arnor ataca a Herb-master con 4 puntos de danio.
+--------------------------------
+Nombre: Herb-master
+Nivel: 4
+Ataque: 26
+Salud: 132 / 146
+[%%%%%%%%%%%%%%%%%%==] 90%
+--------------------------------
+Clase: Guerrero | Fuerza: 28
+
+-- Ronda 36: Ejercito del Sur ataca --
+[Herb-master] Nvl:4 | Salud:132/146 (90%) | Ataque:26 | Fuerza:28  VS  [Eldacar of Arnor] Nvl:2 | Salud:106/106 (100%) | Ataque:15 | Precision:38%
+Herb-master ataca a Eldacar of Arnor con 18 puntos de danio.
+  >> ¡El arquero esquiva parte del ataque!
+--------------------------------
+Nombre: Eldacar of Arnor
+Nivel: 2
+Ataque: 15
+Salud: 97 / 106
+[%%%%%%%%%%%%%%%%%%==] 91%
+--------------------------------
+Clase: Arquero | Precision: 38%
+
+-- Ronda 37: Ejercito del Norte ataca --
+[Eldacar of Arnor] Nvl:2 | Salud:97/106 (91%) | Ataque:15 | Precision:38%  VS  [Herb-master] Nvl:4 | Salud:132/146 (90%) | Ataque:26 | Fuerza:28
+Eldacar of Arnor ataca a Herb-master con 6 puntos de danio.
+--------------------------------
+Nombre: Herb-master
+Nivel: 4
+Ataque: 26
+Salud: 126 / 146
+[%%%%%%%%%%%%%%%%%===] 86%
+--------------------------------
+Clase: Guerrero | Fuerza: 28
+
+-- Ronda 38: Ejercito del Sur ataca --
+[Herb-master] Nvl:4 | Salud:126/146 (86%) | Ataque:26 | Fuerza:28  VS  [Eldacar of Arnor] Nvl:2 | Salud:97/106 (91%) | Ataque:15 | Precision:38%
+Herb-master ataca a Eldacar of Arnor con 18 puntos de danio.
+--------------------------------
+Nombre: Eldacar of Arnor
+Nivel: 2
+Ataque: 15
+Salud: 79 / 106
+[%%%%%%%%%%%%%%======] 74%
+--------------------------------
+Clase: Arquero | Precision: 38%
+
+-- Ronda 39: Ejercito del Norte ataca --
+[Eldacar of Arnor] Nvl:2 | Salud:79/106 (74%) | Ataque:15 | Precision:38%  VS  [Herb-master] Nvl:4 | Salud:126/146 (86%) | Ataque:26 | Fuerza:28
+Eldacar of Arnor ataca a Herb-master con 5 puntos de danio.
+--------------------------------
+Nombre: Herb-master
+Nivel: 4
+Ataque: 26
+Salud: 121 / 146
+[%%%%%%%%%%%%%%%%====] 82%
+--------------------------------
+Clase: Guerrero | Fuerza: 28
+
+-- Ronda 40: Ejercito del Sur ataca --
+[Herb-master] Nvl:4 | Salud:121/146 (82%) | Ataque:26 | Fuerza:28  VS  [Eldacar of Arnor] Nvl:2 | Salud:79/106 (74%) | Ataque:15 | Precision:38%
+Herb-master ataca a Eldacar of Arnor con 20 puntos de danio.
+  >> ¡El arquero esquiva parte del ataque!
+--------------------------------
+Nombre: Eldacar of Arnor
+Nivel: 2
+Ataque: 15
+Salud: 69 / 106
+[%%%%%%%%%%%%%=======] 65%
+--------------------------------
+Clase: Arquero | Precision: 38%
+
+-- Ronda 41: Ejercito del Norte ataca --
+[Eldacar of Arnor] Nvl:2 | Salud:69/106 (65%) | Ataque:15 | Precision:38%  VS  [Herb-master] Nvl:4 | Salud:121/146 (82%) | Ataque:26 | Fuerza:28
+Eldacar of Arnor ataca a Herb-master con 7 puntos de danio.
+--------------------------------
+Nombre: Herb-master
+Nivel: 4
+Ataque: 26
+Salud: 114 / 146
+[%%%%%%%%%%%%%%%=====] 78%
+--------------------------------
+Clase: Guerrero | Fuerza: 28
+
+-- Ronda 42: Ejercito del Sur ataca --
+[Herb-master] Nvl:4 | Salud:114/146 (78%) | Ataque:26 | Fuerza:28  VS  [Eldacar of Arnor] Nvl:2 | Salud:69/106 (65%) | Ataque:15 | Precision:38%
+Herb-master ataca a Eldacar of Arnor con 20 puntos de danio.
+  >> ¡El arquero esquiva parte del ataque!
+--------------------------------
+Nombre: Eldacar of Arnor
+Nivel: 2
+Ataque: 15
+Salud: 59 / 106
+[%%%%%%%%%%%=========] 55%
+--------------------------------
+Clase: Arquero | Precision: 38%
+
+-- Ronda 43: Ejercito del Norte ataca --
+[Eldacar of Arnor] Nvl:2 | Salud:59/106 (55%) | Ataque:15 | Precision:38%  VS  [Herb-master] Nvl:4 | Salud:114/146 (78%) | Ataque:26 | Fuerza:28
+Eldacar of Arnor ataca a Herb-master con 1 puntos de danio.
+--------------------------------
+Nombre: Herb-master
+Nivel: 4
+Ataque: 26
+Salud: 113 / 146
+[%%%%%%%%%%%%%%%=====] 77%
+--------------------------------
+Clase: Guerrero | Fuerza: 28
+
+-- Ronda 44: Ejercito del Sur ataca --
+[Herb-master] Nvl:4 | Salud:113/146 (77%) | Ataque:26 | Fuerza:28  VS  [Eldacar of Arnor] Nvl:2 | Salud:59/106 (55%) | Ataque:15 | Precision:38%
+Herb-master ataca a Eldacar of Arnor con 18 puntos de danio.
+--------------------------------
+Nombre: Eldacar of Arnor
+Nivel: 2
+Ataque: 15
+Salud: 41 / 106
+[%%%%%%%=============] 38%
+--------------------------------
+Clase: Arquero | Precision: 38%
+
+-- Ronda 45: Ejercito del Norte ataca --
+[Eldacar of Arnor] Nvl:2 | Salud:41/106 (38%) | Ataque:15 | Precision:38%  VS  [Herb-master] Nvl:4 | Salud:113/146 (77%) | Ataque:26 | Fuerza:28
+  >> ¡Golpe critico!
+Eldacar of Arnor ataca a Herb-master con 1 puntos de danio.
+--------------------------------
+Nombre: Herb-master
+Nivel: 4
+Ataque: 26
+Salud: 112 / 146
+[%%%%%%%%%%%%%%%=====] 76%
+--------------------------------
+Clase: Guerrero | Fuerza: 28
+
+-- Ronda 46: Ejercito del Sur ataca --
+[Herb-master] Nvl:4 | Salud:112/146 (76%) | Ataque:26 | Fuerza:28  VS  [Eldacar of Arnor] Nvl:2 | Salud:41/106 (38%) | Ataque:15 | Precision:38%
+Herb-master ataca a Eldacar of Arnor con 31 puntos de danio.
+--------------------------------
+Nombre: Eldacar of Arnor
+Nivel: 2
+Ataque: 15
+Salud: 10 / 106
+[%===================] 9%
+--------------------------------
+Clase: Arquero | Precision: 38%
+
+-- Ronda 47: Ejercito del Norte ataca --
+[Eldacar of Arnor] Nvl:2 | Salud:10/106 (9%) | Ataque:15 | Precision:38%  VS  [Herb-master] Nvl:4 | Salud:112/146 (76%) | Ataque:26 | Fuerza:28
+Eldacar of Arnor ataca a Herb-master con 6 puntos de danio.
+--------------------------------
+Nombre: Herb-master
+Nivel: 4
+Ataque: 26
+Salud: 106 / 146
+[%%%%%%%%%%%%%%======] 72%
+--------------------------------
+Clase: Guerrero | Fuerza: 28
+
+-- Ronda 48: Ejercito del Sur ataca --
+[Herb-master] Nvl:4 | Salud:106/146 (72%) | Ataque:26 | Fuerza:28  VS  [Eldacar of Arnor] Nvl:2 | Salud:10/106 (9%) | Ataque:15 | Precision:38%
+Herb-master ataca a Eldacar of Arnor con 28 puntos de danio.
+  >> ¡Eldacar of Arnor esquiva la muerte por pura precision! (21 HP)
+--------------------------------
+Nombre: Eldacar of Arnor
+Nivel: 2
+Ataque: 15
+Salud: 21 / 106
+[%%%=================] 19%
+--------------------------------
+Clase: Arquero | Precision: 19%
+
+-- Ronda 49: Ejercito del Norte ataca --
+[Eldacar of Arnor] Nvl:2 | Salud:21/106 (19%) | Ataque:15 | Precision:19%  VS  [Herb-master] Nvl:4 | Salud:106/146 (72%) | Ataque:26 | Fuerza:28
+  >> ¡Golpe critico!
+Eldacar of Arnor ataca a Herb-master con 3 puntos de danio.
+--------------------------------
+Nombre: Herb-master
+Nivel: 4
+Ataque: 26
+Salud: 103 / 146
+[%%%%%%%%%%%%%%======] 70%
+--------------------------------
+Clase: Guerrero | Fuerza: 28
+
+-- Ronda 50: Ejercito del Sur ataca --
+[Herb-master] Nvl:4 | Salud:103/146 (70%) | Ataque:26 | Fuerza:28  VS  [Eldacar of Arnor] Nvl:2 | Salud:21/106 (19%) | Ataque:15 | Precision:19%
+Herb-master ataca a Eldacar of Arnor con 18 puntos de danio.
+--------------------------------
+Nombre: Eldacar of Arnor
+Nivel: 2
+Ataque: 15
+Salud: 3 / 106
+[====================] 2%
+--------------------------------
+Clase: Arquero | Precision: 19%
+
+-- Ronda 51: Ejercito del Norte ataca --
+[Eldacar of Arnor] Nvl:2 | Salud:3/106 (2%) | Ataque:15 | Precision:19%  VS  [Herb-master] Nvl:4 | Salud:103/146 (70%) | Ataque:26 | Fuerza:28
+Eldacar of Arnor ataca a Herb-master con 6 puntos de danio.
+--------------------------------
+Nombre: Herb-master
+Nivel: 4
+Ataque: 26
+Salud: 97 / 146
+[%%%%%%%%%%%%%=======] 66%
+--------------------------------
+Clase: Guerrero | Fuerza: 28
+
+-- Ronda 52: Ejercito del Sur ataca --
+[Herb-master] Nvl:4 | Salud:97/146 (66%) | Ataque:26 | Fuerza:28  VS  [Eldacar of Arnor] Nvl:2 | Salud:3/106 (2%) | Ataque:15 | Precision:19%
+Herb-master ataca a Eldacar of Arnor con 27 puntos de danio.
+  >> Eldacar of Arnor ha caido en batalla.
+--------------------------------
+Nombre: Eldacar of Arnor
+Nivel: 2
+Ataque: 15
+Salud: 0 / 106
+[====================] 0%
+--------------------------------
+Clase: Arquero | Precision: 19%
+
+-- Ronda 53: Ejercito del Norte ataca --
+[Brodda] Nvl:2 | Salud:139/139 (100%) | Ataque:30 | Mana:87  VS  [Herb-master] Nvl:4 | Salud:97/146 (66%) | Ataque:26 | Fuerza:28
+  >> ¡Hechizo fuerte!
+Brodda ataca a Herb-master con 14 puntos de danio.
+--------------------------------
+Nombre: Herb-master
+Nivel: 4
+Ataque: 26
+Salud: 83 / 146
+[%%%%%%%%%%%=========] 56%
+--------------------------------
+Clase: Guerrero | Fuerza: 28
+
+-- Ronda 54: Ejercito del Sur ataca --
+[Herb-master] Nvl:4 | Salud:83/146 (56%) | Ataque:26 | Fuerza:28  VS  [Brodda] Nvl:2 | Salud:139/139 (100%) | Ataque:30 | Mana:67
+Herb-master ataca a Brodda con 29 puntos de danio.
+--------------------------------
+Nombre: Brodda
+Nivel: 2
+Ataque: 30
+Salud: 110 / 139
+[%%%%%%%%%%%%%%%=====] 79%
+--------------------------------
+Clase: Mago | Mana: 67
+
+-- Ronda 55: Ejercito del Norte ataca --
+[Brodda] Nvl:2 | Salud:110/139 (79%) | Ataque:30 | Mana:67  VS  [Herb-master] Nvl:4 | Salud:83/146 (56%) | Ataque:26 | Fuerza:28
+  >> ¡Hechizo fuerte!
+Brodda ataca a Herb-master con 10 puntos de danio.
+--------------------------------
+Nombre: Herb-master
+Nivel: 4
+Ataque: 26
+Salud: 73 / 146
+[%%%%%%%%%%==========] 50%
+--------------------------------
+Clase: Guerrero | Fuerza: 28
+
+-- Ronda 56: Ejercito del Sur ataca --
+[Herb-master] Nvl:4 | Salud:73/146 (50%) | Ataque:26 | Fuerza:28  VS  [Brodda] Nvl:2 | Salud:110/139 (79%) | Ataque:30 | Mana:47
+Herb-master ataca a Brodda con 18 puntos de danio.
+--------------------------------
+Nombre: Brodda
+Nivel: 2
+Ataque: 30
+Salud: 92 / 139
+[%%%%%%%%%%%%%=======] 66%
+--------------------------------
+Clase: Mago | Mana: 47
+
+-- Ronda 57: Ejercito del Norte ataca --
+[Brodda] Nvl:2 | Salud:92/139 (66%) | Ataque:30 | Mana:47  VS  [Herb-master] Nvl:4 | Salud:73/146 (50%) | Ataque:26 | Fuerza:28
+Brodda ataca a Herb-master con 13 puntos de danio.
+--------------------------------
+Nombre: Herb-master
+Nivel: 4
+Ataque: 26
+Salud: 60 / 146
+[%%%%%%%%============] 41%
+--------------------------------
+Clase: Guerrero | Fuerza: 28
+
+-- Ronda 58: Ejercito del Sur ataca --
+[Herb-master] Nvl:4 | Salud:60/146 (41%) | Ataque:26 | Fuerza:28  VS  [Brodda] Nvl:2 | Salud:92/139 (66%) | Ataque:30 | Mana:47
+Herb-master ataca a Brodda con 31 puntos de danio.
+--------------------------------
+Nombre: Brodda
+Nivel: 2
+Ataque: 30
+Salud: 61 / 139
+[%%%%%%%%============] 43%
+--------------------------------
+Clase: Mago | Mana: 47
+
+-- Ronda 59: Ejercito del Norte ataca --
+[Brodda] Nvl:2 | Salud:61/139 (43%) | Ataque:30 | Mana:47  VS  [Herb-master] Nvl:4 | Salud:60/146 (41%) | Ataque:26 | Fuerza:28
+Brodda ataca a Herb-master con 14 puntos de danio.
+--------------------------------
+Nombre: Herb-master
+Nivel: 4
+Ataque: 26
+Salud: 46 / 146
+[%%%%%%==============] 31%
+--------------------------------
+Clase: Guerrero | Fuerza: 28
+
+-- Ronda 60: Ejercito del Sur ataca --
+[Herb-master] Nvl:4 | Salud:46/146 (31%) | Ataque:26 | Fuerza:28  VS  [Brodda] Nvl:2 | Salud:61/139 (43%) | Ataque:30 | Mana:47
+Herb-master ataca a Brodda con 27 puntos de danio.
+--------------------------------
+Nombre: Brodda
+Nivel: 2
+Ataque: 30
+Salud: 34 / 139
+[%%%%================] 24%
+--------------------------------
+Clase: Mago | Mana: 47
+
+-- Ronda 61: Ejercito del Norte ataca --
+[Brodda] Nvl:2 | Salud:34/139 (24%) | Ataque:30 | Mana:47  VS  [Herb-master] Nvl:4 | Salud:46/146 (31%) | Ataque:26 | Fuerza:28
+  >> ¡Hechizo fuerte!
+Brodda ataca a Herb-master con 24 puntos de danio.
+--------------------------------
+Nombre: Herb-master
+Nivel: 4
+Ataque: 26
+Salud: 23 / 146
+[%%%=================] 15%
+--------------------------------
+Clase: Guerrero | Fuerza: 28
+
+-- Ronda 62: Ejercito del Sur ataca --
+[Herb-master] Nvl:4 | Salud:23/146 (15%) | Ataque:26 | Fuerza:28  VS  [Brodda] Nvl:2 | Salud:34/139 (24%) | Ataque:30 | Mana:27
+Herb-master ataca a Brodda con 31 puntos de danio.
+--------------------------------
+Nombre: Brodda
+Nivel: 2
+Ataque: 30
+Salud: 3 / 139
+[====================] 2%
+--------------------------------
+Clase: Mago | Mana: 27
+
+-- Ronda 63: Ejercito del Norte ataca --
+[Brodda] Nvl:2 | Salud:3/139 (2%) | Ataque:30 | Mana:27  VS  [Herb-master] Nvl:4 | Salud:23/146 (15%) | Ataque:26 | Fuerza:28
+Brodda ataca a Herb-master con 14 puntos de danio.
+--------------------------------
+Nombre: Herb-master
+Nivel: 4
+Ataque: 26
+Salud: 9 / 146
+[%===================] 6%
+--------------------------------
+Clase: Guerrero | Fuerza: 28
+
+-- Ronda 64: Ejercito del Sur ataca --
+[Herb-master] Nvl:4 | Salud:9/146 (6%) | Ataque:26 | Fuerza:28  VS  [Brodda] Nvl:2 | Salud:3/139 (2%) | Ataque:30 | Mana:27
+Herb-master ataca a Brodda con 21 puntos de danio.
+  >> Brodda ha caido en batalla.
+--------------------------------
+Nombre: Brodda
+Nivel: 2
+Ataque: 30
+Salud: 0 / 139
+[====================] 0%
+--------------------------------
+Clase: Mago | Mana: 27
+
+-- Ronda 65: Ejercito del Norte ataca --
+[Bergil] Nvl:1 | Salud:74/74 (100%) | Ataque:22 | Precision:14%  VS  [Herb-master] Nvl:4 | Salud:9/146 (6%) | Ataque:26 | Fuerza:28
+Bergil ataca a Herb-master con 9 puntos de danio.
+  >> ¡Herb-master se levanta con furia de batalla! (29 HP)
+--------------------------------
+Nombre: Herb-master
+Nivel: 4
+Ataque: 26
+Salud: 29 / 146
+[%%%=================] 19%
+--------------------------------
+Clase: Guerrero | Fuerza: 14
+
+-- Ronda 66: Ejercito del Sur ataca --
+[Herb-master] Nvl:4 | Salud:29/146 (19%) | Ataque:26 | Fuerza:14  VS  [Bergil] Nvl:1 | Salud:74/74 (100%) | Ataque:22 | Precision:14%
+Herb-master ataca a Bergil con 23 puntos de danio.
+--------------------------------
+Nombre: Bergil
+Nivel: 1
+Ataque: 22
+Salud: 51 / 74
+[%%%%%%%%%%%%%=======] 68%
+--------------------------------
+Clase: Arquero | Precision: 14%
+
+-- Ronda 67: Ejercito del Norte ataca --
+[Bergil] Nvl:1 | Salud:51/74 (68%) | Ataque:22 | Precision:14%  VS  [Herb-master] Nvl:4 | Salud:29/146 (19%) | Ataque:26 | Fuerza:14
+  >> ¡Golpe critico!
+Bergil ataca a Herb-master con 7 puntos de danio.
+--------------------------------
+Nombre: Herb-master
+Nivel: 4
+Ataque: 26
+Salud: 22 / 146
+[%%%=================] 15%
+--------------------------------
+Clase: Guerrero | Fuerza: 14
+
+-- Ronda 68: Ejercito del Sur ataca --
+[Herb-master] Nvl:4 | Salud:22/146 (15%) | Ataque:26 | Fuerza:14  VS  [Bergil] Nvl:1 | Salud:51/74 (68%) | Ataque:22 | Precision:14%
+Herb-master ataca a Bergil con 15 puntos de danio.
+--------------------------------
+Nombre: Bergil
+Nivel: 1
+Ataque: 22
+Salud: 36 / 74
+[%%%%%%%%%===========] 48%
+--------------------------------
+Clase: Arquero | Precision: 14%
+
+-- Ronda 69: Ejercito del Norte ataca --
+[Bergil] Nvl:1 | Salud:36/74 (48%) | Ataque:22 | Precision:14%  VS  [Herb-master] Nvl:4 | Salud:22/146 (15%) | Ataque:26 | Fuerza:14
+Bergil ataca a Herb-master con 10 puntos de danio.
+--------------------------------
+Nombre: Herb-master
+Nivel: 4
+Ataque: 26
+Salud: 12 / 146
+[%===================] 8%
+--------------------------------
+Clase: Guerrero | Fuerza: 14
+
+-- Ronda 70: Ejercito del Sur ataca --
+[Herb-master] Nvl:4 | Salud:12/146 (8%) | Ataque:26 | Fuerza:14  VS  [Bergil] Nvl:1 | Salud:36/74 (48%) | Ataque:22 | Precision:14%
+Herb-master ataca a Bergil con 28 puntos de danio.
+  >> ¡El arquero esquiva parte del ataque!
+--------------------------------
+Nombre: Bergil
+Nivel: 1
+Ataque: 22
+Salud: 22 / 74
+[%%%%%===============] 29%
+--------------------------------
+Clase: Arquero | Precision: 14%
+
+-- Ronda 71: Ejercito del Norte ataca --
+[Bergil] Nvl:1 | Salud:22/74 (29%) | Ataque:22 | Precision:14%  VS  [Herb-master] Nvl:4 | Salud:12/146 (8%) | Ataque:26 | Fuerza:14
+Bergil ataca a Herb-master con 7 puntos de danio.
+--------------------------------
+Nombre: Herb-master
+Nivel: 4
+Ataque: 26
+Salud: 5 / 146
+[====================] 3%
+--------------------------------
+Clase: Guerrero | Fuerza: 14
+
+-- Ronda 72: Ejercito del Sur ataca --
+[Herb-master] Nvl:4 | Salud:5/146 (3%) | Ataque:26 | Fuerza:14  VS  [Bergil] Nvl:1 | Salud:22/74 (29%) | Ataque:22 | Precision:14%
+Herb-master ataca a Bergil con 25 puntos de danio.
+  >> Bergil ha caido en batalla.
+--------------------------------
+Nombre: Bergil
+Nivel: 1
+Ataque: 22
+Salud: 0 / 74
+[====================] 0%
+--------------------------------
+Clase: Arquero | Precision: 14%
+
+-- Ronda 73: Ejercito del Norte ataca --
+[Túrin I] Nvl:2 | Salud:133/133 (100%) | Ataque:24 | Precision:50%  VS  [Herb-master] Nvl:4 | Salud:5/146 (3%) | Ataque:26 | Fuerza:14
+Túrin I ataca a Herb-master con 11 puntos de danio.
+  >> Herb-master ha caido en batalla.
+--------------------------------
+Nombre: Herb-master
+Nivel: 4
+Ataque: 26
+Salud: 0 / 146
+[====================] 0%
+--------------------------------
+Clase: Guerrero | Fuerza: 14
+
+-- Ronda 74: Ejercito del Sur ataca --
+[Narmacil II] Nvl:4 | Salud:64/64 (100%) | Ataque:23 | Precision:14%  VS  [Túrin I] Nvl:2 | Salud:133/133 (100%) | Ataque:24 | Precision:50%
+Narmacil II ataca a Túrin I con 17 puntos de danio.
+--------------------------------
+Nombre: Túrin I
+Nivel: 2
+Ataque: 24
+Salud: 116 / 133
+[%%%%%%%%%%%%%%%%%===] 87%
+--------------------------------
+Clase: Arquero | Precision: 50%
+
+-- Ronda 75: Ejercito del Norte ataca --
+[Túrin I] Nvl:2 | Salud:116/133 (87%) | Ataque:24 | Precision:50%  VS  [Narmacil II] Nvl:4 | Salud:64/64 (100%) | Ataque:23 | Precision:14%
+  >> ¡Golpe critico!
+Túrin I ataca a Narmacil II con 9 puntos de danio.
+--------------------------------
+Nombre: Narmacil II
+Nivel: 4
+Ataque: 23
+Salud: 55 / 64
+[%%%%%%%%%%%%%%%%%===] 85%
+--------------------------------
+Clase: Arquero | Precision: 14%
+
+-- Ronda 76: Ejercito del Sur ataca --
+[Narmacil II] Nvl:4 | Salud:55/64 (85%) | Ataque:23 | Precision:14%  VS  [Túrin I] Nvl:2 | Salud:116/133 (87%) | Ataque:24 | Precision:50%
+Narmacil II ataca a Túrin I con 18 puntos de danio.
+  >> ¡El arquero esquiva parte del ataque!
+--------------------------------
+Nombre: Túrin I
+Nivel: 2
+Ataque: 24
+Salud: 107 / 133
+[%%%%%%%%%%%%%%%%====] 80%
+--------------------------------
+Clase: Arquero | Precision: 50%
+
+-- Ronda 77: Ejercito del Norte ataca --
+[Túrin I] Nvl:2 | Salud:107/133 (80%) | Ataque:24 | Precision:50%  VS  [Narmacil II] Nvl:4 | Salud:55/64 (85%) | Ataque:23 | Precision:14%
+  >> ¡Golpe critico!
+Túrin I ataca a Narmacil II con 3 puntos de danio.
+--------------------------------
+Nombre: Narmacil II
+Nivel: 4
+Ataque: 23
+Salud: 52 / 64
+[%%%%%%%%%%%%%%%%====] 81%
+--------------------------------
+Clase: Arquero | Precision: 14%
+
+-- Ronda 78: Ejercito del Sur ataca --
+[Narmacil II] Nvl:4 | Salud:52/64 (81%) | Ataque:23 | Precision:14%  VS  [Túrin I] Nvl:2 | Salud:107/133 (80%) | Ataque:24 | Precision:50%
+Narmacil II ataca a Túrin I con 17 puntos de danio.
+  >> ¡El arquero esquiva parte del ataque!
+--------------------------------
+Nombre: Túrin I
+Nivel: 2
+Ataque: 24
+Salud: 99 / 133
+[%%%%%%%%%%%%%%======] 74%
+--------------------------------
+Clase: Arquero | Precision: 50%
+
+-- Ronda 79: Ejercito del Norte ataca --
+[Túrin I] Nvl:2 | Salud:99/133 (74%) | Ataque:24 | Precision:50%  VS  [Narmacil II] Nvl:4 | Salud:52/64 (81%) | Ataque:23 | Precision:14%
+Túrin I ataca a Narmacil II con 1 puntos de danio.
+--------------------------------
+Nombre: Narmacil II
+Nivel: 4
+Ataque: 23
+Salud: 51 / 64
+[%%%%%%%%%%%%%%%=====] 79%
+--------------------------------
+Clase: Arquero | Precision: 14%
+
+-- Ronda 80: Ejercito del Sur ataca --
+[Narmacil II] Nvl:4 | Salud:51/64 (79%) | Ataque:23 | Precision:14%  VS  [Túrin I] Nvl:2 | Salud:99/133 (74%) | Ataque:24 | Precision:50%
+  >> ¡Golpe critico!
+Narmacil II ataca a Túrin I con 31 puntos de danio.
+--------------------------------
+Nombre: Túrin I
+Nivel: 2
+Ataque: 24
+Salud: 68 / 133
+[%%%%%%%%%%==========] 51%
+--------------------------------
+Clase: Arquero | Precision: 50%
+
+-- Ronda 81: Ejercito del Norte ataca --
+[Túrin I] Nvl:2 | Salud:68/133 (51%) | Ataque:24 | Precision:50%  VS  [Narmacil II] Nvl:4 | Salud:51/64 (79%) | Ataque:23 | Precision:14%
+Túrin I ataca a Narmacil II con 4 puntos de danio.
+--------------------------------
+Nombre: Narmacil II
+Nivel: 4
+Ataque: 23
+Salud: 47 / 64
+[%%%%%%%%%%%%%%======] 73%
+--------------------------------
+Clase: Arquero | Precision: 14%
+
+-- Ronda 82: Ejercito del Sur ataca --
+[Narmacil II] Nvl:4 | Salud:47/64 (73%) | Ataque:23 | Precision:14%  VS  [Túrin I] Nvl:2 | Salud:68/133 (51%) | Ataque:24 | Precision:50%
+Narmacil II ataca a Túrin I con 23 puntos de danio.
+--------------------------------
+Nombre: Túrin I
+Nivel: 2
+Ataque: 24
+Salud: 45 / 133
+[%%%%%%==============] 33%
+--------------------------------
+Clase: Arquero | Precision: 50%
+
+-- Ronda 83: Ejercito del Norte ataca --
+[Túrin I] Nvl:2 | Salud:45/133 (33%) | Ataque:24 | Precision:50%  VS  [Narmacil II] Nvl:4 | Salud:47/64 (73%) | Ataque:23 | Precision:14%
+Túrin I ataca a Narmacil II con 11 puntos de danio.
+--------------------------------
+Nombre: Narmacil II
+Nivel: 4
+Ataque: 23
+Salud: 36 / 64
+[%%%%%%%%%%%=========] 56%
+--------------------------------
+Clase: Arquero | Precision: 14%
+
+-- Ronda 84: Ejercito del Sur ataca --
+[Narmacil II] Nvl:4 | Salud:36/64 (56%) | Ataque:23 | Precision:14%  VS  [Túrin I] Nvl:2 | Salud:45/133 (33%) | Ataque:24 | Precision:50%
+Narmacil II ataca a Túrin I con 14 puntos de danio.
+--------------------------------
+Nombre: Túrin I
+Nivel: 2
+Ataque: 24
+Salud: 31 / 133
+[%%%%================] 23%
+--------------------------------
+Clase: Arquero | Precision: 50%
+
+-- Ronda 85: Ejercito del Norte ataca --
+[Túrin I] Nvl:2 | Salud:31/133 (23%) | Ataque:24 | Precision:50%  VS  [Narmacil II] Nvl:4 | Salud:36/64 (56%) | Ataque:23 | Precision:14%
+Túrin I ataca a Narmacil II con 7 puntos de danio.
+--------------------------------
+Nombre: Narmacil II
+Nivel: 4
+Ataque: 23
+Salud: 29 / 64
+[%%%%%%%%%===========] 45%
+--------------------------------
+Clase: Arquero | Precision: 14%
+
+-- Ronda 86: Ejercito del Sur ataca --
+[Narmacil II] Nvl:4 | Salud:29/64 (45%) | Ataque:23 | Precision:14%  VS  [Túrin I] Nvl:2 | Salud:31/133 (23%) | Ataque:24 | Precision:50%
+Narmacil II ataca a Túrin I con 23 puntos de danio.
+  >> ¡El arquero esquiva parte del ataque!
+--------------------------------
+Nombre: Túrin I
+Nivel: 2
+Ataque: 24
+Salud: 20 / 133
+[%%%=================] 15%
+--------------------------------
+Clase: Arquero | Precision: 50%
+
+-- Ronda 87: Ejercito del Norte ataca --
+[Túrin I] Nvl:2 | Salud:20/133 (15%) | Ataque:24 | Precision:50%  VS  [Narmacil II] Nvl:4 | Salud:29/64 (45%) | Ataque:23 | Precision:14%
+Túrin I ataca a Narmacil II con 5 puntos de danio.
+--------------------------------
+Nombre: Narmacil II
+Nivel: 4
+Ataque: 23
+Salud: 24 / 64
+[%%%%%%%=============] 37%
+--------------------------------
+Clase: Arquero | Precision: 14%
+
+-- Ronda 88: Ejercito del Sur ataca --
+[Narmacil II] Nvl:4 | Salud:24/64 (37%) | Ataque:23 | Precision:14%  VS  [Túrin I] Nvl:2 | Salud:20/133 (15%) | Ataque:24 | Precision:50%
+Narmacil II ataca a Túrin I con 22 puntos de danio.
+  >> ¡Túrin I esquiva la muerte por pura precision! (26 HP)
+--------------------------------
+Nombre: Túrin I
+Nivel: 2
+Ataque: 24
+Salud: 26 / 133
+[%%%=================] 19%
+--------------------------------
+Clase: Arquero | Precision: 25%
+
+-- Ronda 89: Ejercito del Norte ataca --
+[Túrin I] Nvl:2 | Salud:26/133 (19%) | Ataque:24 | Precision:25%  VS  [Narmacil II] Nvl:4 | Salud:24/64 (37%) | Ataque:23 | Precision:14%
+Túrin I ataca a Narmacil II con 2 puntos de danio.
+--------------------------------
+Nombre: Narmacil II
+Nivel: 4
+Ataque: 23
+Salud: 22 / 64
+[%%%%%%==============] 34%
+--------------------------------
+Clase: Arquero | Precision: 14%
+
+-- Ronda 90: Ejercito del Sur ataca --
+[Narmacil II] Nvl:4 | Salud:22/64 (34%) | Ataque:23 | Precision:14%  VS  [Túrin I] Nvl:2 | Salud:26/133 (19%) | Ataque:24 | Precision:25%
+Narmacil II ataca a Túrin I con 18 puntos de danio.
+--------------------------------
+Nombre: Túrin I
+Nivel: 2
+Ataque: 24
+Salud: 8 / 133
+[%===================] 6%
+--------------------------------
+Clase: Arquero | Precision: 25%
+
+-- Ronda 91: Ejercito del Norte ataca --
+[Túrin I] Nvl:2 | Salud:8/133 (6%) | Ataque:24 | Precision:25%  VS  [Narmacil II] Nvl:4 | Salud:22/64 (34%) | Ataque:23 | Precision:14%
+Túrin I ataca a Narmacil II con 10 puntos de danio.
+--------------------------------
+Nombre: Narmacil II
+Nivel: 4
+Ataque: 23
+Salud: 12 / 64
+[%%%=================] 18%
+--------------------------------
+Clase: Arquero | Precision: 14%
+
+-- Ronda 92: Ejercito del Sur ataca --
+[Narmacil II] Nvl:4 | Salud:12/64 (18%) | Ataque:23 | Precision:14%  VS  [Túrin I] Nvl:2 | Salud:8/133 (6%) | Ataque:24 | Precision:25%
+Narmacil II ataca a Túrin I con 17 puntos de danio.
+  >> Túrin I ha caido en batalla.
+--------------------------------
+Nombre: Túrin I
+Nivel: 2
+Ataque: 24
+Salud: 0 / 133
+[====================] 0%
+--------------------------------
+Clase: Arquero | Precision: 25%
+
+-- Ronda 93: Ejercito del Norte ataca --
+[Argonui] Nvl:5 | Salud:78/78 (100%) | Ataque:17 | Fuerza:13  VS  [Narmacil II] Nvl:4 | Salud:12/64 (18%) | Ataque:23 | Precision:14%
+Argonui ataca a Narmacil II con 10 puntos de danio.
+--------------------------------
+Nombre: Narmacil II
+Nivel: 4
+Ataque: 23
+Salud: 2 / 64
+[====================] 3%
+--------------------------------
+Clase: Arquero | Precision: 14%
+
+-- Ronda 94: Ejercito del Sur ataca --
+[Narmacil II] Nvl:4 | Salud:2/64 (3%) | Ataque:23 | Precision:14%  VS  [Argonui] Nvl:5 | Salud:78/78 (100%) | Ataque:17 | Fuerza:13
+Narmacil II ataca a Argonui con 6 puntos de danio.
+--------------------------------
+Nombre: Argonui
+Nivel: 5
+Ataque: 17
+Salud: 72 / 78
+[%%%%%%%%%%%%%%%%%%==] 92%
+--------------------------------
+Clase: Guerrero | Fuerza: 13
+
+-- Ronda 95: Ejercito del Norte ataca --
+[Argonui] Nvl:5 | Salud:72/78 (92%) | Ataque:17 | Fuerza:13  VS  [Narmacil II] Nvl:4 | Salud:2/64 (3%) | Ataque:23 | Precision:14%
+Argonui ataca a Narmacil II con 18 puntos de danio.
+  >> Narmacil II ha caido en batalla.
+--------------------------------
+Nombre: Narmacil II
+Nivel: 4
+Ataque: 23
+Salud: 0 / 64
+[====================] 0%
+--------------------------------
+Clase: Arquero | Precision: 14%
+
+-- Ronda 96: Ejercito del Sur ataca --
+[Aratan] Nvl:4 | Salud:135/135 (100%) | Ataque:27 | Fuerza:14  VS  [Argonui] Nvl:5 | Salud:72/78 (92%) | Ataque:17 | Fuerza:13
+Aratan ataca a Argonui con 8 puntos de danio.
+--------------------------------
+Nombre: Argonui
+Nivel: 5
+Ataque: 17
+Salud: 64 / 78
+[%%%%%%%%%%%%%%%%====] 82%
+--------------------------------
+Clase: Guerrero | Fuerza: 13
+
+-- Ronda 97: Ejercito del Norte ataca --
+[Argonui] Nvl:5 | Salud:64/78 (82%) | Ataque:17 | Fuerza:13  VS  [Aratan] Nvl:4 | Salud:135/135 (100%) | Ataque:27 | Fuerza:14
+Argonui ataca a Aratan con 13 puntos de danio.
+--------------------------------
+Nombre: Aratan
+Nivel: 4
+Ataque: 27
+Salud: 122 / 135
+[%%%%%%%%%%%%%%%%%%==] 90%
+--------------------------------
+Clase: Guerrero | Fuerza: 14
+
+-- Ronda 98: Ejercito del Sur ataca --
+[Aratan] Nvl:4 | Salud:122/135 (90%) | Ataque:27 | Fuerza:14  VS  [Argonui] Nvl:5 | Salud:64/78 (82%) | Ataque:17 | Fuerza:13
+Aratan ataca a Argonui con 15 puntos de danio.
+--------------------------------
+Nombre: Argonui
+Nivel: 5
+Ataque: 17
+Salud: 49 / 78
+[%%%%%%%%%%%%========] 62%
+--------------------------------
+Clase: Guerrero | Fuerza: 13
+
+-- Ronda 99: Ejercito del Norte ataca --
+[Argonui] Nvl:5 | Salud:49/78 (62%) | Ataque:17 | Fuerza:13  VS  [Aratan] Nvl:4 | Salud:122/135 (90%) | Ataque:27 | Fuerza:14
+Argonui ataca a Aratan con 19 puntos de danio.
+--------------------------------
+Nombre: Aratan
+Nivel: 4
+Ataque: 27
+Salud: 103 / 135
+[%%%%%%%%%%%%%%%=====] 76%
+--------------------------------
+Clase: Guerrero | Fuerza: 14
+
+-- Ronda 100: Ejercito del Sur ataca --
+[Aratan] Nvl:4 | Salud:103/135 (76%) | Ataque:27 | Fuerza:14  VS  [Argonui] Nvl:5 | Salud:49/78 (62%) | Ataque:17 | Fuerza:13
+Aratan ataca a Argonui con 3 puntos de danio.
+--------------------------------
+Nombre: Argonui
+Nivel: 5
+Ataque: 17
+Salud: 46 / 78
+[%%%%%%%%%%%=========] 58%
+--------------------------------
+Clase: Guerrero | Fuerza: 13
+
+-- Ronda 101: Ejercito del Norte ataca --
+[Argonui] Nvl:5 | Salud:46/78 (58%) | Ataque:17 | Fuerza:13  VS  [Aratan] Nvl:4 | Salud:103/135 (76%) | Ataque:27 | Fuerza:14
+Argonui ataca a Aratan con 14 puntos de danio.
+--------------------------------
+Nombre: Aratan
+Nivel: 4
+Ataque: 27
+Salud: 89 / 135
+[%%%%%%%%%%%%%=======] 65%
+--------------------------------
+Clase: Guerrero | Fuerza: 14
+
+-- Ronda 102: Ejercito del Sur ataca --
+[Aratan] Nvl:4 | Salud:89/135 (65%) | Ataque:27 | Fuerza:14  VS  [Argonui] Nvl:5 | Salud:46/78 (58%) | Ataque:17 | Fuerza:13
+Aratan ataca a Argonui con 7 puntos de danio.
+--------------------------------
+Nombre: Argonui
+Nivel: 5
+Ataque: 17
+Salud: 39 / 78
+[%%%%%%%%%%==========] 50%
+--------------------------------
+Clase: Guerrero | Fuerza: 13
+
+-- Ronda 103: Ejercito del Norte ataca --
+[Argonui] Nvl:5 | Salud:39/78 (50%) | Ataque:17 | Fuerza:13  VS  [Aratan] Nvl:4 | Salud:89/135 (65%) | Ataque:27 | Fuerza:14
+Argonui ataca a Aratan con 11 puntos de danio.
+--------------------------------
+Nombre: Aratan
+Nivel: 4
+Ataque: 27
+Salud: 78 / 135
+[%%%%%%%%%%%=========] 57%
+--------------------------------
+Clase: Guerrero | Fuerza: 14
+
+-- Ronda 104: Ejercito del Sur ataca --
+[Aratan] Nvl:4 | Salud:78/135 (57%) | Ataque:27 | Fuerza:14  VS  [Argonui] Nvl:5 | Salud:39/78 (50%) | Ataque:17 | Fuerza:13
+Aratan ataca a Argonui con 3 puntos de danio.
+--------------------------------
+Nombre: Argonui
+Nivel: 5
+Ataque: 17
+Salud: 36 / 78
+[%%%%%%%%%===========] 46%
+--------------------------------
+Clase: Guerrero | Fuerza: 13
+
+-- Ronda 105: Ejercito del Norte ataca --
+[Argonui] Nvl:5 | Salud:36/78 (46%) | Ataque:17 | Fuerza:13  VS  [Aratan] Nvl:4 | Salud:78/135 (57%) | Ataque:27 | Fuerza:14
+Argonui ataca a Aratan con 16 puntos de danio.
+--------------------------------
+Nombre: Aratan
+Nivel: 4
+Ataque: 27
+Salud: 62 / 135
+[%%%%%%%%%===========] 45%
+--------------------------------
+Clase: Guerrero | Fuerza: 14
+
+-- Ronda 106: Ejercito del Sur ataca --
+[Aratan] Nvl:4 | Salud:62/135 (45%) | Ataque:27 | Fuerza:14  VS  [Argonui] Nvl:5 | Salud:36/78 (46%) | Ataque:17 | Fuerza:13
+Aratan ataca a Argonui con 11 puntos de danio.
+--------------------------------
+Nombre: Argonui
+Nivel: 5
+Ataque: 17
+Salud: 25 / 78
+[%%%%%%==============] 32%
+--------------------------------
+Clase: Guerrero | Fuerza: 13
+
+-- Ronda 107: Ejercito del Norte ataca --
+[Argonui] Nvl:5 | Salud:25/78 (32%) | Ataque:17 | Fuerza:13  VS  [Aratan] Nvl:4 | Salud:62/135 (45%) | Ataque:27 | Fuerza:14
+Argonui ataca a Aratan con 17 puntos de danio.
+--------------------------------
+Nombre: Aratan
+Nivel: 4
+Ataque: 27
+Salud: 45 / 135
+[%%%%%%==============] 33%
+--------------------------------
+Clase: Guerrero | Fuerza: 14
+
+-- Ronda 108: Ejercito del Sur ataca --
+[Aratan] Nvl:4 | Salud:45/135 (33%) | Ataque:27 | Fuerza:14  VS  [Argonui] Nvl:5 | Salud:25/78 (32%) | Ataque:17 | Fuerza:13
+Aratan ataca a Argonui con 6 puntos de danio.
+--------------------------------
+Nombre: Argonui
+Nivel: 5
+Ataque: 17
+Salud: 19 / 78
+[%%%%================] 24%
+--------------------------------
+Clase: Guerrero | Fuerza: 13
+
+-- Ronda 109: Ejercito del Norte ataca --
+[Argonui] Nvl:5 | Salud:19/78 (24%) | Ataque:17 | Fuerza:13  VS  [Aratan] Nvl:4 | Salud:45/135 (33%) | Ataque:27 | Fuerza:14
+Argonui ataca a Aratan con 10 puntos de danio.
+--------------------------------
+Nombre: Aratan
+Nivel: 4
+Ataque: 27
+Salud: 35 / 135
+[%%%%%===============] 25%
+--------------------------------
+Clase: Guerrero | Fuerza: 14
+
+-- Ronda 110: Ejercito del Sur ataca --
+[Aratan] Nvl:4 | Salud:35/135 (25%) | Ataque:27 | Fuerza:14  VS  [Argonui] Nvl:5 | Salud:19/78 (24%) | Ataque:17 | Fuerza:13
+Aratan ataca a Argonui con 6 puntos de danio.
+--------------------------------
+Nombre: Argonui
+Nivel: 5
+Ataque: 17
+Salud: 13 / 78
+[%%%=================] 16%
+--------------------------------
+Clase: Guerrero | Fuerza: 13
+
+-- Ronda 111: Ejercito del Norte ataca --
+[Argonui] Nvl:5 | Salud:13/78 (16%) | Ataque:17 | Fuerza:13  VS  [Aratan] Nvl:4 | Salud:35/135 (25%) | Ataque:27 | Fuerza:14
+Argonui ataca a Aratan con 19 puntos de danio.
+--------------------------------
+Nombre: Aratan
+Nivel: 4
+Ataque: 27
+Salud: 16 / 135
+[%%==================] 11%
+--------------------------------
+Clase: Guerrero | Fuerza: 14
+
+-- Ronda 112: Ejercito del Sur ataca --
+[Aratan] Nvl:4 | Salud:16/135 (11%) | Ataque:27 | Fuerza:14  VS  [Argonui] Nvl:5 | Salud:13/78 (16%) | Ataque:17 | Fuerza:13
+Aratan ataca a Argonui con 12 puntos de danio.
+--------------------------------
+Nombre: Argonui
+Nivel: 5
+Ataque: 17
+Salud: 1 / 78
+[====================] 1%
+--------------------------------
+Clase: Guerrero | Fuerza: 13
+
+-- Ronda 113: Ejercito del Norte ataca --
+[Argonui] Nvl:5 | Salud:1/78 (1%) | Ataque:17 | Fuerza:13  VS  [Aratan] Nvl:4 | Salud:16/135 (11%) | Ataque:27 | Fuerza:14
+Argonui ataca a Aratan con 11 puntos de danio.
+--------------------------------
+Nombre: Aratan
+Nivel: 4
+Ataque: 27
+Salud: 5 / 135
+[====================] 3%
+--------------------------------
+Clase: Guerrero | Fuerza: 14
+
+-- Ronda 114: Ejercito del Sur ataca --
+[Aratan] Nvl:4 | Salud:5/135 (3%) | Ataque:27 | Fuerza:14  VS  [Argonui] Nvl:5 | Salud:1/78 (1%) | Ataque:17 | Fuerza:13
+Aratan ataca a Argonui con 10 puntos de danio.
+  >> Argonui ha caido en batalla.
+--------------------------------
+Nombre: Argonui
+Nivel: 5
+Ataque: 17
+Salud: 0 / 78
+[====================] 0%
+--------------------------------
+Clase: Guerrero | Fuerza: 13

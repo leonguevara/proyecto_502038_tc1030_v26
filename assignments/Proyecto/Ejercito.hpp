@@ -25,6 +25,8 @@ private:
     void contarTipo(Personaje* p, int signo);
 
 public:
+    // Lanza std::invalid_argument si maxUnidades <= 0: un ejercito de
+    // tamano 0 o negativo no tiene sentido para una batalla.
     explicit Ejercito(int maxUnidades, std::string nombreEjercito = "Ejercito");
     ~Ejercito();
 
@@ -64,6 +66,7 @@ public:
     bool estaVacio() const;
     std::string getNombreEjercito() const;
 
-    // Utilidad: carga nombres desde un archivo de texto (uno por linea)
+    // Utilidad: carga nombres desde un archivo de texto (uno por linea).
+    // Lanza std::runtime_error si el archivo no se puede abrir.
     static std::vector<std::string> cargarNombres(const std::string& rutaArchivo);
 };

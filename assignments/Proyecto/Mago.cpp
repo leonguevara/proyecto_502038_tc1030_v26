@@ -11,8 +11,13 @@ Mago::Mago() : Personaje()
 }
 
 Mago::Mago(string nombre, int vida, int ataque, int nivel, int mana)
-    : Personaje(nombre, vida, ataque, nivel)
+    : Personaje(nombre, vida, ataque, nivel) // si esto lanza, el resto no se ejecuta
 {
+    if (mana < 0 || mana > 100)
+    {
+        throw invalid_argument("Mago '" + nombre + "': mana debe estar entre 0 y 100 (recibido " + to_string(mana) + ")");
+    }
+
     this->mana = mana;
     yaRevivio = false;
 }

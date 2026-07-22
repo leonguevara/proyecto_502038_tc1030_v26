@@ -17,6 +17,19 @@ Personaje::Personaje()
 
 Personaje::Personaje(string nombre, int vida, int ataque, int nivel)
 {
+    if (vida <= 0)
+    {
+        throw invalid_argument("Personaje '" + nombre + "': vida debe ser mayor a 0 (recibido " + to_string(vida) + ")");
+    }
+    if (ataque < 0)
+    {
+        throw invalid_argument("Personaje '" + nombre + "': ataque no puede ser negativo (recibido " + to_string(ataque) + ")");
+    }
+    if (nivel < 1)
+    {
+        throw invalid_argument("Personaje '" + nombre + "': nivel debe ser al menos 1 (recibido " + to_string(nivel) + ")");
+    }
+
     this->nombre = nombre;
     this->vida = vida;
     this->salud = vida; // arranca con salud al maximo

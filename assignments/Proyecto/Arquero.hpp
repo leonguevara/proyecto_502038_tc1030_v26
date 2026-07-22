@@ -11,6 +11,9 @@ private:
 
 public:
     Arquero();
+
+    // Ademas de lo que valida Personaje, lanza std::invalid_argument si
+    // precision esta fuera del rango 0.0 a 100.0.
     Arquero(std::string nombre, int vida, int ataque, int nivel, float precision);
 
     float getPrecision() const;

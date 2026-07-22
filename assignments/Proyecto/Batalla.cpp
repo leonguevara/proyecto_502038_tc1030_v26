@@ -4,6 +4,7 @@
 #include <sstream>
 #include <iomanip>
 #include <ctime>
+#include <stdexcept>
 
 using namespace std;
 
@@ -49,6 +50,14 @@ namespace
 Batalla::Batalla(Ejercito& ejercito1, Ejercito& ejercito2)
     : ejercito1(ejercito1), ejercito2(ejercito2)
 {
+    if (ejercito1.estaVacio() || ejercito2.estaVacio())
+    {
+        throw invalid_argument(
+            "Batalla: ambos ejercitos deben tener al menos un elemento ("
+            + ejercito1.getNombreEjercito() + ": " + to_string(ejercito1.getTotalUnidades())
+            + ", " + ejercito2.getNombreEjercito() + ": " + to_string(ejercito2.getTotalUnidades()) + ")");
+    }
+
     turno = 1; // el ejercito 1 empieza atacando
     numeroRonda = 1;
     archivoSalida = "";

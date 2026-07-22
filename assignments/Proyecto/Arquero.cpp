@@ -11,8 +11,13 @@ Arquero::Arquero() : Personaje()
 }
 
 Arquero::Arquero(string nombre, int vida, int ataque, int nivel, float precision)
-    : Personaje(nombre, vida, ataque, nivel)
+    : Personaje(nombre, vida, ataque, nivel) // si esto lanza, el resto no se ejecuta
 {
+    if (precision < 0.0f || precision > 100.0f)
+    {
+        throw invalid_argument("Arquero '" + nombre + "': precision debe estar entre 0.0 y 100.0 (recibido " + to_string(precision) + ")");
+    }
+
     this->precision = precision;
     yaRevivio = false;
 }

@@ -11,6 +11,9 @@ private:
 
 public:
     Mago();
+
+    // Ademas de lo que valida Personaje, lanza std::invalid_argument si
+    // mana esta fuera del rango 0 a 100.
     Mago(std::string nombre, int vida, int ataque, int nivel, int mana);
 
     int getMana() const;

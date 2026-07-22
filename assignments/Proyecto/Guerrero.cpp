@@ -10,8 +10,13 @@ Guerrero::Guerrero() : Personaje()
 }
 
 Guerrero::Guerrero(string nombre, int vida, int ataque, int nivel, int fuerza)
-    : Personaje(nombre, vida, ataque, nivel)
+    : Personaje(nombre, vida, ataque, nivel) // si esto lanza, el resto no se ejecuta
 {
+    if (fuerza < 0)
+    {
+        throw invalid_argument("Guerrero '" + nombre + "': fuerza no puede ser negativa (recibido " + to_string(fuerza) + ")");
+    }
+
     this->fuerza = fuerza;
     yaRevivio = false;
 }
