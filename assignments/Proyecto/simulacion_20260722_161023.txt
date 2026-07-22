@@ -1,0 +1,1122 @@
+
+-- Ronda 1: Ejercito del Norte ataca --
+[Harry Goatleaf] Nvl:4 | Salud:66/66 (100%) | Ataque:14 | Mana:100  VS  [Angbor] Nvl:4 | Salud:123/123 (100%) | Ataque:16 | Mana:51
+Harry Goatleaf ataca a Angbor con 7 puntos de danio.
+--------------------------------
+Nombre: Angbor
+Nivel: 4
+Ataque: 16
+Salud: 116 / 123
+[%%%%%%%%%%%%%%%%%%==] 94%
+--------------------------------
+Clase: Mago | Mana: 51
+
+-- Ronda 2: Ejercito del Sur ataca --
+[Angbor] Nvl:4 | Salud:116/123 (94%) | Ataque:16 | Mana:51  VS  [Harry Goatleaf] Nvl:4 | Salud:66/66 (100%) | Ataque:14 | Mana:100
+Angbor ataca a Harry Goatleaf con 16 puntos de danio.
+--------------------------------
+Nombre: Harry Goatleaf
+Nivel: 4
+Ataque: 14
+Salud: 61 / 66
+[%%%%%%%%%%%%%%%%%%==] 92%
+--------------------------------
+Clase: Mago | Mana: 100
+
+-- Ronda 3: Ejercito del Norte ataca --
+[Harry Goatleaf] Nvl:4 | Salud:61/66 (92%) | Ataque:14 | Mana:100  VS  [Angbor] Nvl:4 | Salud:116/123 (94%) | Ataque:16 | Mana:51
+Harry Goatleaf ataca a Angbor con 7 puntos de danio.
+--------------------------------
+Nombre: Angbor
+Nivel: 4
+Ataque: 16
+Salud: 109 / 123
+[%%%%%%%%%%%%%%%%%===] 88%
+--------------------------------
+Clase: Mago | Mana: 51
+
+-- Ronda 4: Ejercito del Sur ataca --
+[Angbor] Nvl:4 | Salud:109/123 (88%) | Ataque:16 | Mana:51  VS  [Harry Goatleaf] Nvl:4 | Salud:61/66 (92%) | Ataque:14 | Mana:100
+  >> ¡Hechizo fuerte!
+Angbor ataca a Harry Goatleaf con 24 puntos de danio.
+--------------------------------
+Nombre: Harry Goatleaf
+Nivel: 4
+Ataque: 14
+Salud: 53 / 66
+[%%%%%%%%%%%%%%%%====] 80%
+--------------------------------
+Clase: Mago | Mana: 100
+
+-- Ronda 5: Ejercito del Norte ataca --
+[Harry Goatleaf] Nvl:4 | Salud:53/66 (80%) | Ataque:14 | Mana:100  VS  [Angbor] Nvl:4 | Salud:109/123 (88%) | Ataque:16 | Mana:31
+Harry Goatleaf ataca a Angbor con 12 puntos de danio.
+--------------------------------
+Nombre: Angbor
+Nivel: 4
+Ataque: 16
+Salud: 97 / 123
+[%%%%%%%%%%%%%%%=====] 78%
+--------------------------------
+Clase: Mago | Mana: 31
+
+-- Ronda 6: Ejercito del Sur ataca --
+[Angbor] Nvl:4 | Salud:97/123 (78%) | Ataque:16 | Mana:31  VS  [Harry Goatleaf] Nvl:4 | Salud:53/66 (80%) | Ataque:14 | Mana:100
+  >> ¡Hechizo fuerte!
+Angbor ataca a Harry Goatleaf con 24 puntos de danio.
+--------------------------------
+Nombre: Harry Goatleaf
+Nivel: 4
+Ataque: 14
+Salud: 45 / 66
+[%%%%%%%%%%%%%=======] 68%
+--------------------------------
+Clase: Mago | Mana: 100
+
+-- Ronda 7: Ejercito del Norte ataca --
+[Harry Goatleaf] Nvl:4 | Salud:45/66 (68%) | Ataque:14 | Mana:100  VS  [Angbor] Nvl:4 | Salud:97/123 (78%) | Ataque:16 | Mana:11
+  >> ¡Hechizo fuerte!
+Harry Goatleaf ataca a Angbor con 18 puntos de danio.
+--------------------------------
+Nombre: Angbor
+Nivel: 4
+Ataque: 16
+Salud: 79 / 123
+[%%%%%%%%%%%%========] 64%
+--------------------------------
+Clase: Mago | Mana: 11
+
+-- Ronda 8: Ejercito del Sur ataca --
+[Angbor] Nvl:4 | Salud:79/123 (64%) | Ataque:16 | Mana:11  VS  [Harry Goatleaf] Nvl:4 | Salud:45/66 (68%) | Ataque:14 | Mana:80
+Angbor ataca a Harry Goatleaf con 16 puntos de danio.
+--------------------------------
+Nombre: Harry Goatleaf
+Nivel: 4
+Ataque: 14
+Salud: 29 / 66
+[%%%%%%%%============] 43%
+--------------------------------
+Clase: Mago | Mana: 80
+
+-- Ronda 9: Ejercito del Norte ataca --
+[Harry Goatleaf] Nvl:4 | Salud:29/66 (43%) | Ataque:14 | Mana:80  VS  [Angbor] Nvl:4 | Salud:79/123 (64%) | Ataque:16 | Mana:11
+Harry Goatleaf ataca a Angbor con 7 puntos de danio.
+--------------------------------
+Nombre: Angbor
+Nivel: 4
+Ataque: 16
+Salud: 72 / 123
+[%%%%%%%%%%%=========] 58%
+--------------------------------
+Clase: Mago | Mana: 11
+
+-- Ronda 10: Ejercito del Sur ataca --
+[Angbor] Nvl:4 | Salud:72/123 (58%) | Ataque:16 | Mana:11  VS  [Harry Goatleaf] Nvl:4 | Salud:29/66 (43%) | Ataque:14 | Mana:80
+Angbor ataca a Harry Goatleaf con 14 puntos de danio.
+--------------------------------
+Nombre: Harry Goatleaf
+Nivel: 4
+Ataque: 14
+Salud: 15 / 66
+[%%%%================] 22%
+--------------------------------
+Clase: Mago | Mana: 80
+
+-- Ronda 11: Ejercito del Norte ataca --
+[Harry Goatleaf] Nvl:4 | Salud:15/66 (22%) | Ataque:14 | Mana:80  VS  [Angbor] Nvl:4 | Salud:72/123 (58%) | Ataque:16 | Mana:11
+  >> ¡Hechizo fuerte!
+Harry Goatleaf ataca a Angbor con 20 puntos de danio.
+--------------------------------
+Nombre: Angbor
+Nivel: 4
+Ataque: 16
+Salud: 52 / 123
+[%%%%%%%%============] 42%
+--------------------------------
+Clase: Mago | Mana: 11
+
+-- Ronda 12: Ejercito del Sur ataca --
+[Angbor] Nvl:4 | Salud:52/123 (42%) | Ataque:16 | Mana:11  VS  [Harry Goatleaf] Nvl:4 | Salud:15/66 (22%) | Ataque:14 | Mana:60
+  >> ¡Hechizo fuerte!
+Angbor ataca a Harry Goatleaf con 16 puntos de danio.
+  >> ¡Harry Goatleaf revive gracias a su ultima reserva de mana! (13 HP)
+--------------------------------
+Nombre: Harry Goatleaf
+Nivel: 4
+Ataque: 14
+Salud: 13 / 66
+[%%%=================] 19%
+--------------------------------
+Clase: Mago | Mana: 10
+
+-- Ronda 13: Ejercito del Norte ataca --
+[Harry Goatleaf] Nvl:4 | Salud:13/66 (19%) | Ataque:14 | Mana:10  VS  [Angbor] Nvl:4 | Salud:52/123 (42%) | Ataque:16 | Mana:0
+Harry Goatleaf ataca a Angbor con 9 puntos de danio.
+--------------------------------
+Nombre: Angbor
+Nivel: 4
+Ataque: 16
+Salud: 43 / 123
+[%%%%%%==============] 34%
+--------------------------------
+Clase: Mago | Mana: 0
+
+-- Ronda 14: Ejercito del Sur ataca --
+[Angbor] Nvl:4 | Salud:43/123 (34%) | Ataque:16 | Mana:0  VS  [Harry Goatleaf] Nvl:4 | Salud:13/66 (19%) | Ataque:14 | Mana:10
+Angbor ataca a Harry Goatleaf con 12 puntos de danio.
+--------------------------------
+Nombre: Harry Goatleaf
+Nivel: 4
+Ataque: 14
+Salud: 1 / 66
+[====================] 1%
+--------------------------------
+Clase: Mago | Mana: 10
+
+-- Ronda 15: Ejercito del Norte ataca --
+[Harry Goatleaf] Nvl:4 | Salud:1/66 (1%) | Ataque:14 | Mana:10  VS  [Angbor] Nvl:4 | Salud:43/123 (34%) | Ataque:16 | Mana:0
+Harry Goatleaf ataca a Angbor con 9 puntos de danio.
+--------------------------------
+Nombre: Angbor
+Nivel: 4
+Ataque: 16
+Salud: 34 / 123
+[%%%%%===============] 27%
+--------------------------------
+Clase: Mago | Mana: 0
+
+-- Ronda 16: Ejercito del Sur ataca --
+[Angbor] Nvl:4 | Salud:34/123 (27%) | Ataque:16 | Mana:0  VS  [Harry Goatleaf] Nvl:4 | Salud:1/66 (1%) | Ataque:14 | Mana:10
+Angbor ataca a Harry Goatleaf con 16 puntos de danio.
+  >> Harry Goatleaf ha caido en batalla.
+  >> El mago absorbe energia y recupera mana.
+--------------------------------
+Nombre: Harry Goatleaf
+Nivel: 4
+Ataque: 14
+Salud: 0 / 66
+[====================] 0%
+--------------------------------
+Clase: Mago | Mana: 10
+
+-- Ronda 17: Ejercito del Norte ataca --
+[Uldor] Nvl:5 | Salud:123/123 (100%) | Ataque:21 | Mana:92  VS  [Angbor] Nvl:4 | Salud:34/123 (27%) | Ataque:16 | Mana:15
+Uldor ataca a Angbor con 16 puntos de danio.
+--------------------------------
+Nombre: Angbor
+Nivel: 4
+Ataque: 16
+Salud: 18 / 123
+[%%==================] 14%
+--------------------------------
+Clase: Mago | Mana: 15
+
+-- Ronda 18: Ejercito del Sur ataca --
+[Angbor] Nvl:4 | Salud:18/123 (14%) | Ataque:16 | Mana:15  VS  [Uldor] Nvl:5 | Salud:123/123 (100%) | Ataque:21 | Mana:92
+  >> ¡Hechizo fuerte!
+Angbor ataca a Uldor con 6 puntos de danio.
+--------------------------------
+Nombre: Uldor
+Nivel: 5
+Ataque: 21
+Salud: 121 / 123
+[%%%%%%%%%%%%%%%%%%%=] 98%
+--------------------------------
+Clase: Mago | Mana: 92
+
+-- Ronda 19: Ejercito del Norte ataca --
+[Uldor] Nvl:5 | Salud:121/123 (98%) | Ataque:21 | Mana:92  VS  [Angbor] Nvl:4 | Salud:18/123 (14%) | Ataque:16 | Mana:0
+  >> ¡Hechizo fuerte!
+Uldor ataca a Angbor con 26 puntos de danio.
+  >> Angbor ha caido en batalla.
+  >> El mago absorbe energia y recupera mana.
+--------------------------------
+Nombre: Angbor
+Nivel: 4
+Ataque: 16
+Salud: 0 / 123
+[====================] 0%
+--------------------------------
+Clase: Mago | Mana: 0
+
+-- Ronda 20: Ejercito del Sur ataca --
+[Arvegil] Nvl:2 | Salud:71/71 (100%) | Ataque:28 | Fuerza:47  VS  [Uldor] Nvl:5 | Salud:121/123 (98%) | Ataque:21 | Mana:87
+Arvegil ataca a Uldor con 18 puntos de danio.
+--------------------------------
+Nombre: Uldor
+Nivel: 5
+Ataque: 21
+Salud: 115 / 123
+[%%%%%%%%%%%%%%%%%%==] 93%
+--------------------------------
+Clase: Mago | Mana: 87
+
+-- Ronda 21: Ejercito del Norte ataca --
+[Uldor] Nvl:5 | Salud:115/123 (93%) | Ataque:21 | Mana:87  VS  [Arvegil] Nvl:2 | Salud:71/71 (100%) | Ataque:28 | Fuerza:47
+  >> ¡Hechizo fuerte!
+Uldor ataca a Arvegil con 22 puntos de danio.
+--------------------------------
+Nombre: Arvegil
+Nivel: 2
+Ataque: 28
+Salud: 51 / 71
+[%%%%%%%%%%%%%%======] 71%
+--------------------------------
+Clase: Guerrero | Fuerza: 47
+
+-- Ronda 22: Ejercito del Sur ataca --
+[Arvegil] Nvl:2 | Salud:51/71 (71%) | Ataque:28 | Fuerza:47  VS  [Uldor] Nvl:5 | Salud:115/123 (93%) | Ataque:21 | Mana:67
+Arvegil ataca a Uldor con 18 puntos de danio.
+--------------------------------
+Nombre: Uldor
+Nivel: 5
+Ataque: 21
+Salud: 97 / 123
+[%%%%%%%%%%%%%%%=====] 78%
+--------------------------------
+Clase: Mago | Mana: 67
+
+-- Ronda 23: Ejercito del Norte ataca --
+[Uldor] Nvl:5 | Salud:97/123 (78%) | Ataque:21 | Mana:67  VS  [Arvegil] Nvl:2 | Salud:51/71 (71%) | Ataque:28 | Fuerza:47
+Uldor ataca a Arvegil con 19 puntos de danio.
+--------------------------------
+Nombre: Arvegil
+Nivel: 2
+Ataque: 28
+Salud: 34 / 71
+[%%%%%%%%%===========] 47%
+--------------------------------
+Clase: Guerrero | Fuerza: 47
+
+-- Ronda 24: Ejercito del Sur ataca --
+[Arvegil] Nvl:2 | Salud:34/71 (47%) | Ataque:28 | Fuerza:47  VS  [Uldor] Nvl:5 | Salud:97/123 (78%) | Ataque:21 | Mana:67
+Arvegil ataca a Uldor con 17 puntos de danio.
+--------------------------------
+Nombre: Uldor
+Nivel: 5
+Ataque: 21
+Salud: 80 / 123
+[%%%%%%%%%%%%%=======] 65%
+--------------------------------
+Clase: Mago | Mana: 67
+
+-- Ronda 25: Ejercito del Norte ataca --
+[Uldor] Nvl:5 | Salud:80/123 (65%) | Ataque:21 | Mana:67  VS  [Arvegil] Nvl:2 | Salud:34/71 (47%) | Ataque:28 | Fuerza:47
+Uldor ataca a Arvegil con 10 puntos de danio.
+--------------------------------
+Nombre: Arvegil
+Nivel: 2
+Ataque: 28
+Salud: 25 / 71
+[%%%%%%%=============] 35%
+--------------------------------
+Clase: Guerrero | Fuerza: 47
+
+-- Ronda 26: Ejercito del Sur ataca --
+[Arvegil] Nvl:2 | Salud:25/71 (35%) | Ataque:28 | Fuerza:47  VS  [Uldor] Nvl:5 | Salud:80/123 (65%) | Ataque:21 | Mana:67
+Arvegil ataca a Uldor con 19 puntos de danio.
+--------------------------------
+Nombre: Uldor
+Nivel: 5
+Ataque: 21
+Salud: 61 / 123
+[%%%%%%%%%===========] 49%
+--------------------------------
+Clase: Mago | Mana: 67
+
+-- Ronda 27: Ejercito del Norte ataca --
+[Uldor] Nvl:5 | Salud:61/123 (49%) | Ataque:21 | Mana:67  VS  [Arvegil] Nvl:2 | Salud:25/71 (35%) | Ataque:28 | Fuerza:47
+  >> ¡Hechizo fuerte!
+Uldor ataca a Arvegil con 28 puntos de danio.
+  >> ¡Arvegil se levanta con furia de batalla! (14 HP)
+--------------------------------
+Nombre: Arvegil
+Nivel: 2
+Ataque: 28
+Salud: 14 / 71
+[%%%=================] 19%
+--------------------------------
+Clase: Guerrero | Fuerza: 23
+
+-- Ronda 28: Ejercito del Sur ataca --
+[Arvegil] Nvl:2 | Salud:14/71 (19%) | Ataque:28 | Fuerza:23  VS  [Uldor] Nvl:5 | Salud:61/123 (49%) | Ataque:21 | Mana:47
+Arvegil ataca a Uldor con 5 puntos de danio.
+--------------------------------
+Nombre: Uldor
+Nivel: 5
+Ataque: 21
+Salud: 56 / 123
+[%%%%%%%%%===========] 45%
+--------------------------------
+Clase: Mago | Mana: 47
+
+-- Ronda 29: Ejercito del Norte ataca --
+[Uldor] Nvl:5 | Salud:56/123 (45%) | Ataque:21 | Mana:47  VS  [Arvegil] Nvl:2 | Salud:14/71 (19%) | Ataque:28 | Fuerza:23
+  >> ¡Hechizo fuerte!
+Uldor ataca a Arvegil con 34 puntos de danio.
+  >> Arvegil ha caido en batalla.
+  >> El mago absorbe energia y recupera mana.
+--------------------------------
+Nombre: Arvegil
+Nivel: 2
+Ataque: 28
+Salud: 0 / 71
+[====================] 0%
+--------------------------------
+Clase: Guerrero | Fuerza: 23
+
+-- Ronda 30: Ejercito del Sur ataca --
+[Théodred] Nvl:5 | Salud:113/113 (100%) | Ataque:27 | Mana:73  VS  [Uldor] Nvl:5 | Salud:56/123 (45%) | Ataque:21 | Mana:42
+  >> ¡Hechizo fuerte!
+Théodred ataca a Uldor con 32 puntos de danio.
+--------------------------------
+Nombre: Uldor
+Nivel: 5
+Ataque: 21
+Salud: 24 / 123
+[%%%=================] 19%
+--------------------------------
+Clase: Mago | Mana: 42
+
+-- Ronda 31: Ejercito del Norte ataca --
+[Uldor] Nvl:5 | Salud:24/123 (19%) | Ataque:21 | Mana:42  VS  [Théodred] Nvl:5 | Salud:113/113 (100%) | Ataque:27 | Mana:53
+Uldor ataca a Théodred con 21 puntos de danio.
+--------------------------------
+Nombre: Théodred
+Nivel: 5
+Ataque: 27
+Salud: 92 / 113
+[%%%%%%%%%%%%%%%%====] 81%
+--------------------------------
+Clase: Mago | Mana: 53
+
+-- Ronda 32: Ejercito del Sur ataca --
+[Théodred] Nvl:5 | Salud:92/113 (81%) | Ataque:27 | Mana:53  VS  [Uldor] Nvl:5 | Salud:24/123 (19%) | Ataque:21 | Mana:42
+  >> ¡Hechizo fuerte!
+Théodred ataca a Uldor con 46 puntos de danio.
+  >> Uldor ha caido en batalla.
+  >> El mago absorbe energia y recupera mana.
+--------------------------------
+Nombre: Uldor
+Nivel: 5
+Ataque: 21
+Salud: 0 / 123
+[====================] 0%
+--------------------------------
+Clase: Mago | Mana: 42
+
+-- Ronda 33: Ejercito del Norte ataca --
+[Elendil] Nvl:1 | Salud:110/110 (100%) | Ataque:27 | Mana:99  VS  [Théodred] Nvl:5 | Salud:92/113 (81%) | Ataque:27 | Mana:48
+Elendil ataca a Théodred con 3 puntos de danio.
+--------------------------------
+Nombre: Théodred
+Nivel: 5
+Ataque: 27
+Salud: 89 / 113
+[%%%%%%%%%%%%%%%=====] 78%
+--------------------------------
+Clase: Mago | Mana: 48
+
+-- Ronda 34: Ejercito del Sur ataca --
+[Théodred] Nvl:5 | Salud:89/113 (78%) | Ataque:27 | Mana:48  VS  [Elendil] Nvl:1 | Salud:110/110 (100%) | Ataque:27 | Mana:99
+Théodred ataca a Elendil con 19 puntos de danio.
+--------------------------------
+Nombre: Elendil
+Nivel: 1
+Ataque: 27
+Salud: 91 / 110
+[%%%%%%%%%%%%%%%%====] 82%
+--------------------------------
+Clase: Mago | Mana: 99
+
+-- Ronda 35: Ejercito del Norte ataca --
+[Elendil] Nvl:1 | Salud:91/110 (82%) | Ataque:27 | Mana:99  VS  [Théodred] Nvl:5 | Salud:89/113 (78%) | Ataque:27 | Mana:48
+Elendil ataca a Théodred con 8 puntos de danio.
+--------------------------------
+Nombre: Théodred
+Nivel: 5
+Ataque: 27
+Salud: 81 / 113
+[%%%%%%%%%%%%%%======] 71%
+--------------------------------
+Clase: Mago | Mana: 48
+
+-- Ronda 36: Ejercito del Sur ataca --
+[Théodred] Nvl:5 | Salud:81/113 (71%) | Ataque:27 | Mana:48  VS  [Elendil] Nvl:1 | Salud:91/110 (82%) | Ataque:27 | Mana:99
+Théodred ataca a Elendil con 13 puntos de danio.
+--------------------------------
+Nombre: Elendil
+Nivel: 1
+Ataque: 27
+Salud: 78 / 110
+[%%%%%%%%%%%%%%======] 70%
+--------------------------------
+Clase: Mago | Mana: 99
+
+-- Ronda 37: Ejercito del Norte ataca --
+[Elendil] Nvl:1 | Salud:78/110 (70%) | Ataque:27 | Mana:99  VS  [Théodred] Nvl:5 | Salud:81/113 (71%) | Ataque:27 | Mana:48
+Elendil ataca a Théodred con 3 puntos de danio.
+--------------------------------
+Nombre: Théodred
+Nivel: 5
+Ataque: 27
+Salud: 78 / 113
+[%%%%%%%%%%%%%=======] 69%
+--------------------------------
+Clase: Mago | Mana: 48
+
+-- Ronda 38: Ejercito del Sur ataca --
+[Théodred] Nvl:5 | Salud:78/113 (69%) | Ataque:27 | Mana:48  VS  [Elendil] Nvl:1 | Salud:78/110 (70%) | Ataque:27 | Mana:99
+Théodred ataca a Elendil con 14 puntos de danio.
+--------------------------------
+Nombre: Elendil
+Nivel: 1
+Ataque: 27
+Salud: 64 / 110
+[%%%%%%%%%%%=========] 58%
+--------------------------------
+Clase: Mago | Mana: 99
+
+-- Ronda 39: Ejercito del Norte ataca --
+[Elendil] Nvl:1 | Salud:64/110 (58%) | Ataque:27 | Mana:99  VS  [Théodred] Nvl:5 | Salud:78/113 (69%) | Ataque:27 | Mana:48
+Elendil ataca a Théodred con 5 puntos de danio.
+--------------------------------
+Nombre: Théodred
+Nivel: 5
+Ataque: 27
+Salud: 73 / 113
+[%%%%%%%%%%%%========] 64%
+--------------------------------
+Clase: Mago | Mana: 48
+
+-- Ronda 40: Ejercito del Sur ataca --
+[Théodred] Nvl:5 | Salud:73/113 (64%) | Ataque:27 | Mana:48  VS  [Elendil] Nvl:1 | Salud:64/110 (58%) | Ataque:27 | Mana:99
+  >> ¡Hechizo fuerte!
+Théodred ataca a Elendil con 30 puntos de danio.
+--------------------------------
+Nombre: Elendil
+Nivel: 1
+Ataque: 27
+Salud: 34 / 110
+[%%%%%%==============] 30%
+--------------------------------
+Clase: Mago | Mana: 99
+
+-- Ronda 41: Ejercito del Norte ataca --
+[Elendil] Nvl:1 | Salud:34/110 (30%) | Ataque:27 | Mana:99  VS  [Théodred] Nvl:5 | Salud:73/113 (64%) | Ataque:27 | Mana:28
+Elendil ataca a Théodred con 10 puntos de danio.
+--------------------------------
+Nombre: Théodred
+Nivel: 5
+Ataque: 27
+Salud: 63 / 113
+[%%%%%%%%%%%=========] 55%
+--------------------------------
+Clase: Mago | Mana: 28
+
+-- Ronda 42: Ejercito del Sur ataca --
+[Théodred] Nvl:5 | Salud:63/113 (55%) | Ataque:27 | Mana:28  VS  [Elendil] Nvl:1 | Salud:34/110 (30%) | Ataque:27 | Mana:99
+Théodred ataca a Elendil con 17 puntos de danio.
+--------------------------------
+Nombre: Elendil
+Nivel: 1
+Ataque: 27
+Salud: 17 / 110
+[%%%=================] 15%
+--------------------------------
+Clase: Mago | Mana: 99
+
+-- Ronda 43: Ejercito del Norte ataca --
+[Elendil] Nvl:1 | Salud:17/110 (15%) | Ataque:27 | Mana:99  VS  [Théodred] Nvl:5 | Salud:63/113 (55%) | Ataque:27 | Mana:28
+Elendil ataca a Théodred con 10 puntos de danio.
+--------------------------------
+Nombre: Théodred
+Nivel: 5
+Ataque: 27
+Salud: 53 / 113
+[%%%%%%%%%===========] 46%
+--------------------------------
+Clase: Mago | Mana: 28
+
+-- Ronda 44: Ejercito del Sur ataca --
+[Théodred] Nvl:5 | Salud:53/113 (46%) | Ataque:27 | Mana:28  VS  [Elendil] Nvl:1 | Salud:17/110 (15%) | Ataque:27 | Mana:99
+Théodred ataca a Elendil con 23 puntos de danio.
+  >> ¡Elendil revive gracias a su ultima reserva de mana! (22 HP)
+--------------------------------
+Nombre: Elendil
+Nivel: 1
+Ataque: 27
+Salud: 22 / 110
+[%%%%================] 20%
+--------------------------------
+Clase: Mago | Mana: 49
+
+-- Ronda 45: Ejercito del Norte ataca --
+[Elendil] Nvl:1 | Salud:22/110 (20%) | Ataque:27 | Mana:49  VS  [Théodred] Nvl:5 | Salud:53/113 (46%) | Ataque:27 | Mana:28
+Elendil ataca a Théodred con 7 puntos de danio.
+--------------------------------
+Nombre: Théodred
+Nivel: 5
+Ataque: 27
+Salud: 46 / 113
+[%%%%%%%%============] 40%
+--------------------------------
+Clase: Mago | Mana: 28
+
+-- Ronda 46: Ejercito del Sur ataca --
+[Théodred] Nvl:5 | Salud:46/113 (40%) | Ataque:27 | Mana:28  VS  [Elendil] Nvl:1 | Salud:22/110 (20%) | Ataque:27 | Mana:49
+Théodred ataca a Elendil con 20 puntos de danio.
+--------------------------------
+Nombre: Elendil
+Nivel: 1
+Ataque: 27
+Salud: 2 / 110
+[====================] 1%
+--------------------------------
+Clase: Mago | Mana: 49
+
+-- Ronda 47: Ejercito del Norte ataca --
+[Elendil] Nvl:1 | Salud:2/110 (1%) | Ataque:27 | Mana:49  VS  [Théodred] Nvl:5 | Salud:46/113 (40%) | Ataque:27 | Mana:28
+Elendil ataca a Théodred con 2 puntos de danio.
+--------------------------------
+Nombre: Théodred
+Nivel: 5
+Ataque: 27
+Salud: 44 / 113
+[%%%%%%%=============] 38%
+--------------------------------
+Clase: Mago | Mana: 28
+
+-- Ronda 48: Ejercito del Sur ataca --
+[Théodred] Nvl:5 | Salud:44/113 (38%) | Ataque:27 | Mana:28  VS  [Elendil] Nvl:1 | Salud:2/110 (1%) | Ataque:27 | Mana:49
+  >> ¡Hechizo fuerte!
+Théodred ataca a Elendil con 26 puntos de danio.
+  >> Elendil ha caido en batalla.
+  >> El mago absorbe energia y recupera mana.
+--------------------------------
+Nombre: Elendil
+Nivel: 1
+Ataque: 27
+Salud: 0 / 110
+[====================] 0%
+--------------------------------
+Clase: Mago | Mana: 49
+
+-- Ronda 49: Ejercito del Norte ataca --
+[Tar-Aldarion] Nvl:1 | Salud:135/135 (100%) | Ataque:14 | Mana:60  VS  [Théodred] Nvl:5 | Salud:44/113 (38%) | Ataque:27 | Mana:23
+Tar-Aldarion ataca a Théodred con 4 puntos de danio.
+--------------------------------
+Nombre: Théodred
+Nivel: 5
+Ataque: 27
+Salud: 40 / 113
+[%%%%%%%=============] 35%
+--------------------------------
+Clase: Mago | Mana: 23
+
+-- Ronda 50: Ejercito del Sur ataca --
+[Théodred] Nvl:5 | Salud:40/113 (35%) | Ataque:27 | Mana:23  VS  [Tar-Aldarion] Nvl:1 | Salud:135/135 (100%) | Ataque:14 | Mana:60
+Théodred ataca a Tar-Aldarion con 16 puntos de danio.
+--------------------------------
+Nombre: Tar-Aldarion
+Nivel: 1
+Ataque: 14
+Salud: 119 / 135
+[%%%%%%%%%%%%%%%%%===] 88%
+--------------------------------
+Clase: Mago | Mana: 60
+
+-- Ronda 51: Ejercito del Norte ataca --
+[Tar-Aldarion] Nvl:1 | Salud:119/135 (88%) | Ataque:14 | Mana:60  VS  [Théodred] Nvl:5 | Salud:40/113 (35%) | Ataque:27 | Mana:23
+  >> ¡Hechizo fuerte!
+Tar-Aldarion ataca a Théodred con 14 puntos de danio.
+--------------------------------
+Nombre: Théodred
+Nivel: 5
+Ataque: 27
+Salud: 26 / 113
+[%%%%================] 23%
+--------------------------------
+Clase: Mago | Mana: 23
+
+-- Ronda 52: Ejercito del Sur ataca --
+[Théodred] Nvl:5 | Salud:26/113 (23%) | Ataque:27 | Mana:23  VS  [Tar-Aldarion] Nvl:1 | Salud:119/135 (88%) | Ataque:14 | Mana:40
+Théodred ataca a Tar-Aldarion con 21 puntos de danio.
+--------------------------------
+Nombre: Tar-Aldarion
+Nivel: 1
+Ataque: 14
+Salud: 98 / 135
+[%%%%%%%%%%%%%%======] 72%
+--------------------------------
+Clase: Mago | Mana: 40
+
+-- Ronda 53: Ejercito del Norte ataca --
+[Tar-Aldarion] Nvl:1 | Salud:98/135 (72%) | Ataque:14 | Mana:40  VS  [Théodred] Nvl:5 | Salud:26/113 (23%) | Ataque:27 | Mana:23
+Tar-Aldarion ataca a Théodred con 4 puntos de danio.
+--------------------------------
+Nombre: Théodred
+Nivel: 5
+Ataque: 27
+Salud: 22 / 113
+[%%%=================] 19%
+--------------------------------
+Clase: Mago | Mana: 23
+
+-- Ronda 54: Ejercito del Sur ataca --
+[Théodred] Nvl:5 | Salud:22/113 (19%) | Ataque:27 | Mana:23  VS  [Tar-Aldarion] Nvl:1 | Salud:98/135 (72%) | Ataque:14 | Mana:40
+Théodred ataca a Tar-Aldarion con 18 puntos de danio.
+--------------------------------
+Nombre: Tar-Aldarion
+Nivel: 1
+Ataque: 14
+Salud: 80 / 135
+[%%%%%%%%%%%=========] 59%
+--------------------------------
+Clase: Mago | Mana: 40
+
+-- Ronda 55: Ejercito del Norte ataca --
+[Tar-Aldarion] Nvl:1 | Salud:80/135 (59%) | Ataque:14 | Mana:40  VS  [Théodred] Nvl:5 | Salud:22/113 (19%) | Ataque:27 | Mana:23
+Tar-Aldarion ataca a Théodred con 2 puntos de danio.
+--------------------------------
+Nombre: Théodred
+Nivel: 5
+Ataque: 27
+Salud: 20 / 113
+[%%%=================] 17%
+--------------------------------
+Clase: Mago | Mana: 23
+
+-- Ronda 56: Ejercito del Sur ataca --
+[Théodred] Nvl:5 | Salud:20/113 (17%) | Ataque:27 | Mana:23  VS  [Tar-Aldarion] Nvl:1 | Salud:80/135 (59%) | Ataque:14 | Mana:40
+Théodred ataca a Tar-Aldarion con 13 puntos de danio.
+--------------------------------
+Nombre: Tar-Aldarion
+Nivel: 1
+Ataque: 14
+Salud: 67 / 135
+[%%%%%%%%%===========] 49%
+--------------------------------
+Clase: Mago | Mana: 40
+
+-- Ronda 57: Ejercito del Norte ataca --
+[Tar-Aldarion] Nvl:1 | Salud:67/135 (49%) | Ataque:14 | Mana:40  VS  [Théodred] Nvl:5 | Salud:20/113 (17%) | Ataque:27 | Mana:23
+Tar-Aldarion ataca a Théodred con 1 puntos de danio.
+--------------------------------
+Nombre: Théodred
+Nivel: 5
+Ataque: 27
+Salud: 19 / 113
+[%%%=================] 16%
+--------------------------------
+Clase: Mago | Mana: 23
+
+-- Ronda 58: Ejercito del Sur ataca --
+[Théodred] Nvl:5 | Salud:19/113 (16%) | Ataque:27 | Mana:23  VS  [Tar-Aldarion] Nvl:1 | Salud:67/135 (49%) | Ataque:14 | Mana:40
+Théodred ataca a Tar-Aldarion con 19 puntos de danio.
+--------------------------------
+Nombre: Tar-Aldarion
+Nivel: 1
+Ataque: 14
+Salud: 48 / 135
+[%%%%%%%=============] 35%
+--------------------------------
+Clase: Mago | Mana: 40
+
+-- Ronda 59: Ejercito del Norte ataca --
+[Tar-Aldarion] Nvl:1 | Salud:48/135 (35%) | Ataque:14 | Mana:40  VS  [Théodred] Nvl:5 | Salud:19/113 (16%) | Ataque:27 | Mana:23
+Tar-Aldarion ataca a Théodred con 1 puntos de danio.
+--------------------------------
+Nombre: Théodred
+Nivel: 5
+Ataque: 27
+Salud: 18 / 113
+[%%%=================] 15%
+--------------------------------
+Clase: Mago | Mana: 23
+
+-- Ronda 60: Ejercito del Sur ataca --
+[Théodred] Nvl:5 | Salud:18/113 (15%) | Ataque:27 | Mana:23  VS  [Tar-Aldarion] Nvl:1 | Salud:48/135 (35%) | Ataque:14 | Mana:40
+Théodred ataca a Tar-Aldarion con 13 puntos de danio.
+--------------------------------
+Nombre: Tar-Aldarion
+Nivel: 1
+Ataque: 14
+Salud: 35 / 135
+[%%%%%===============] 25%
+--------------------------------
+Clase: Mago | Mana: 40
+
+-- Ronda 61: Ejercito del Norte ataca --
+[Tar-Aldarion] Nvl:1 | Salud:35/135 (25%) | Ataque:14 | Mana:40  VS  [Théodred] Nvl:5 | Salud:18/113 (15%) | Ataque:27 | Mana:23
+Tar-Aldarion ataca a Théodred con 1 puntos de danio.
+--------------------------------
+Nombre: Théodred
+Nivel: 5
+Ataque: 27
+Salud: 17 / 113
+[%%%=================] 15%
+--------------------------------
+Clase: Mago | Mana: 23
+
+-- Ronda 62: Ejercito del Sur ataca --
+[Théodred] Nvl:5 | Salud:17/113 (15%) | Ataque:27 | Mana:23  VS  [Tar-Aldarion] Nvl:1 | Salud:35/135 (25%) | Ataque:14 | Mana:40
+Théodred ataca a Tar-Aldarion con 15 puntos de danio.
+--------------------------------
+Nombre: Tar-Aldarion
+Nivel: 1
+Ataque: 14
+Salud: 20 / 135
+[%%==================] 14%
+--------------------------------
+Clase: Mago | Mana: 40
+
+-- Ronda 63: Ejercito del Norte ataca --
+[Tar-Aldarion] Nvl:1 | Salud:20/135 (14%) | Ataque:14 | Mana:40  VS  [Théodred] Nvl:5 | Salud:17/113 (15%) | Ataque:27 | Mana:23
+Tar-Aldarion ataca a Théodred con 7 puntos de danio.
+--------------------------------
+Nombre: Théodred
+Nivel: 5
+Ataque: 27
+Salud: 10 / 113
+[%===================] 8%
+--------------------------------
+Clase: Mago | Mana: 23
+
+-- Ronda 64: Ejercito del Sur ataca --
+[Théodred] Nvl:5 | Salud:10/113 (8%) | Ataque:27 | Mana:23  VS  [Tar-Aldarion] Nvl:1 | Salud:20/135 (14%) | Ataque:14 | Mana:40
+Théodred ataca a Tar-Aldarion con 16 puntos de danio.
+--------------------------------
+Nombre: Tar-Aldarion
+Nivel: 1
+Ataque: 14
+Salud: 4 / 135
+[====================] 2%
+--------------------------------
+Clase: Mago | Mana: 40
+
+-- Ronda 65: Ejercito del Norte ataca --
+[Tar-Aldarion] Nvl:1 | Salud:4/135 (2%) | Ataque:14 | Mana:40  VS  [Théodred] Nvl:5 | Salud:10/113 (8%) | Ataque:27 | Mana:23
+Tar-Aldarion ataca a Théodred con 3 puntos de danio.
+--------------------------------
+Nombre: Théodred
+Nivel: 5
+Ataque: 27
+Salud: 7 / 113
+[%===================] 6%
+--------------------------------
+Clase: Mago | Mana: 23
+
+-- Ronda 66: Ejercito del Sur ataca --
+[Théodred] Nvl:5 | Salud:7/113 (6%) | Ataque:27 | Mana:23  VS  [Tar-Aldarion] Nvl:1 | Salud:4/135 (2%) | Ataque:14 | Mana:40
+Théodred ataca a Tar-Aldarion con 26 puntos de danio.
+  >> Tar-Aldarion ha caido en batalla.
+  >> El mago absorbe energia y recupera mana.
+--------------------------------
+Nombre: Tar-Aldarion
+Nivel: 1
+Ataque: 14
+Salud: 0 / 135
+[====================] 0%
+--------------------------------
+Clase: Mago | Mana: 40
+
+-- Ronda 67: Ejercito del Norte ataca --
+[Gléowine] Nvl:5 | Salud:71/71 (100%) | Ataque:30 | Precision:18%  VS  [Théodred] Nvl:5 | Salud:7/113 (6%) | Ataque:27 | Mana:38
+Gléowine ataca a Théodred con 24 puntos de danio.
+  >> Théodred ha caido en batalla.
+--------------------------------
+Nombre: Théodred
+Nivel: 5
+Ataque: 27
+Salud: 0 / 113
+[====================] 0%
+--------------------------------
+Clase: Mago | Mana: 38
+
+-- Ronda 68: Ejercito del Sur ataca --
+[Herubrand] Nvl:4 | Salud:102/102 (100%) | Ataque:28 | Mana:65  VS  [Gléowine] Nvl:5 | Salud:71/71 (100%) | Ataque:30 | Precision:18%
+Herubrand ataca a Gléowine con 5 puntos de danio.
+--------------------------------
+Nombre: Gléowine
+Nivel: 5
+Ataque: 30
+Salud: 66 / 71
+[%%%%%%%%%%%%%%%%%%==] 92%
+--------------------------------
+Clase: Arquero | Precision: 18%
+
+-- Ronda 69: Ejercito del Norte ataca --
+[Gléowine] Nvl:5 | Salud:66/71 (92%) | Ataque:30 | Precision:18%  VS  [Herubrand] Nvl:4 | Salud:102/102 (100%) | Ataque:28 | Mana:65
+Gléowine ataca a Herubrand con 30 puntos de danio.
+--------------------------------
+Nombre: Herubrand
+Nivel: 4
+Ataque: 28
+Salud: 72 / 102
+[%%%%%%%%%%%%%%======] 70%
+--------------------------------
+Clase: Mago | Mana: 65
+
+-- Ronda 70: Ejercito del Sur ataca --
+[Herubrand] Nvl:4 | Salud:72/102 (70%) | Ataque:28 | Mana:65  VS  [Gléowine] Nvl:5 | Salud:66/71 (92%) | Ataque:30 | Precision:18%
+Herubrand ataca a Gléowine con 4 puntos de danio.
+--------------------------------
+Nombre: Gléowine
+Nivel: 5
+Ataque: 30
+Salud: 62 / 71
+[%%%%%%%%%%%%%%%%%===] 87%
+--------------------------------
+Clase: Arquero | Precision: 18%
+
+-- Ronda 71: Ejercito del Norte ataca --
+[Gléowine] Nvl:5 | Salud:62/71 (87%) | Ataque:30 | Precision:18%  VS  [Herubrand] Nvl:4 | Salud:72/102 (70%) | Ataque:28 | Mana:65
+  >> ¡Golpe critico!
+Gléowine ataca a Herubrand con 39 puntos de danio.
+--------------------------------
+Nombre: Herubrand
+Nivel: 4
+Ataque: 28
+Salud: 33 / 102
+[%%%%%%==============] 32%
+--------------------------------
+Clase: Mago | Mana: 65
+
+-- Ronda 72: Ejercito del Sur ataca --
+[Herubrand] Nvl:4 | Salud:33/102 (32%) | Ataque:28 | Mana:65  VS  [Gléowine] Nvl:5 | Salud:62/71 (87%) | Ataque:30 | Precision:18%
+Herubrand ataca a Gléowine con 7 puntos de danio.
+--------------------------------
+Nombre: Gléowine
+Nivel: 5
+Ataque: 30
+Salud: 55 / 71
+[%%%%%%%%%%%%%%%=====] 77%
+--------------------------------
+Clase: Arquero | Precision: 18%
+
+-- Ronda 73: Ejercito del Norte ataca --
+[Gléowine] Nvl:5 | Salud:55/71 (77%) | Ataque:30 | Precision:18%  VS  [Herubrand] Nvl:4 | Salud:33/102 (32%) | Ataque:28 | Mana:65
+  >> ¡Golpe critico!
+Gléowine ataca a Herubrand con 34 puntos de danio.
+  >> ¡Herubrand revive gracias a su ultima reserva de mana! (20 HP)
+--------------------------------
+Nombre: Herubrand
+Nivel: 4
+Ataque: 28
+Salud: 20 / 102
+[%%%=================] 19%
+--------------------------------
+Clase: Mago | Mana: 15
+
+-- Ronda 74: Ejercito del Sur ataca --
+[Herubrand] Nvl:4 | Salud:20/102 (19%) | Ataque:28 | Mana:15  VS  [Gléowine] Nvl:5 | Salud:55/71 (77%) | Ataque:30 | Precision:18%
+Herubrand ataca a Gléowine con 1 puntos de danio.
+--------------------------------
+Nombre: Gléowine
+Nivel: 5
+Ataque: 30
+Salud: 54 / 71
+[%%%%%%%%%%%%%%%=====] 76%
+--------------------------------
+Clase: Arquero | Precision: 18%
+
+-- Ronda 75: Ejercito del Norte ataca --
+[Gléowine] Nvl:5 | Salud:54/71 (76%) | Ataque:30 | Precision:18%  VS  [Herubrand] Nvl:4 | Salud:20/102 (19%) | Ataque:28 | Mana:15
+Gléowine ataca a Herubrand con 18 puntos de danio.
+--------------------------------
+Nombre: Herubrand
+Nivel: 4
+Ataque: 28
+Salud: 2 / 102
+[====================] 1%
+--------------------------------
+Clase: Mago | Mana: 15
+
+-- Ronda 76: Ejercito del Sur ataca --
+[Herubrand] Nvl:4 | Salud:2/102 (1%) | Ataque:28 | Mana:15  VS  [Gléowine] Nvl:5 | Salud:54/71 (76%) | Ataque:30 | Precision:18%
+Herubrand ataca a Gléowine con 4 puntos de danio.
+--------------------------------
+Nombre: Gléowine
+Nivel: 5
+Ataque: 30
+Salud: 50 / 71
+[%%%%%%%%%%%%%%======] 70%
+--------------------------------
+Clase: Arquero | Precision: 18%
+
+-- Ronda 77: Ejercito del Norte ataca --
+[Gléowine] Nvl:5 | Salud:50/71 (70%) | Ataque:30 | Precision:18%  VS  [Herubrand] Nvl:4 | Salud:2/102 (1%) | Ataque:28 | Mana:15
+Gléowine ataca a Herubrand con 28 puntos de danio.
+  >> Herubrand ha caido en batalla.
+--------------------------------
+Nombre: Herubrand
+Nivel: 4
+Ataque: 28
+Salud: 0 / 102
+[====================] 0%
+--------------------------------
+Clase: Mago | Mana: 15
+
+-- Ronda 78: Ejercito del Sur ataca --
+[Tar-Ciryatan] Nvl:5 | Salud:107/107 (100%) | Ataque:27 | Precision:42%  VS  [Gléowine] Nvl:5 | Salud:50/71 (70%) | Ataque:30 | Precision:18%
+  >> ¡Golpe critico!
+Tar-Ciryatan ataca a Gléowine con 34 puntos de danio.
+--------------------------------
+Nombre: Gléowine
+Nivel: 5
+Ataque: 30
+Salud: 16 / 71
+[%%%%================] 22%
+--------------------------------
+Clase: Arquero | Precision: 18%
+
+-- Ronda 79: Ejercito del Norte ataca --
+[Gléowine] Nvl:5 | Salud:16/71 (22%) | Ataque:30 | Precision:18%  VS  [Tar-Ciryatan] Nvl:5 | Salud:107/107 (100%) | Ataque:27 | Precision:42%
+Gléowine ataca a Tar-Ciryatan con 26 puntos de danio.
+--------------------------------
+Nombre: Tar-Ciryatan
+Nivel: 5
+Ataque: 27
+Salud: 81 / 107
+[%%%%%%%%%%%%%%%=====] 75%
+--------------------------------
+Clase: Arquero | Precision: 42%
+
+-- Ronda 80: Ejercito del Sur ataca --
+[Tar-Ciryatan] Nvl:5 | Salud:81/107 (75%) | Ataque:27 | Precision:42%  VS  [Gléowine] Nvl:5 | Salud:16/71 (22%) | Ataque:30 | Precision:18%
+Tar-Ciryatan ataca a Gléowine con 20 puntos de danio.
+  >> Gléowine ha caido en batalla.
+--------------------------------
+Nombre: Gléowine
+Nivel: 5
+Ataque: 30
+Salud: 0 / 71
+[====================] 0%
+--------------------------------
+Clase: Arquero | Precision: 18%
+
+-- Ronda 81: Ejercito del Norte ataca --
+[Telemnar] Nvl:3 | Salud:107/107 (100%) | Ataque:17 | Mana:88  VS  [Tar-Ciryatan] Nvl:5 | Salud:81/107 (75%) | Ataque:27 | Precision:42%
+  >> ¡Hechizo fuerte!
+Telemnar ataca a Tar-Ciryatan con 16 puntos de danio.
+--------------------------------
+Nombre: Tar-Ciryatan
+Nivel: 5
+Ataque: 27
+Salud: 65 / 107
+[%%%%%%%%%%%%========] 60%
+--------------------------------
+Clase: Arquero | Precision: 42%
+
+-- Ronda 82: Ejercito del Sur ataca --
+[Tar-Ciryatan] Nvl:5 | Salud:65/107 (60%) | Ataque:27 | Precision:42%  VS  [Telemnar] Nvl:3 | Salud:107/107 (100%) | Ataque:17 | Mana:68
+Tar-Ciryatan ataca a Telemnar con 21 puntos de danio.
+--------------------------------
+Nombre: Telemnar
+Nivel: 3
+Ataque: 17
+Salud: 86 / 107
+[%%%%%%%%%%%%%%%%====] 80%
+--------------------------------
+Clase: Mago | Mana: 68
+
+-- Ronda 83: Ejercito del Norte ataca --
+[Telemnar] Nvl:3 | Salud:86/107 (80%) | Ataque:17 | Mana:68  VS  [Tar-Ciryatan] Nvl:5 | Salud:65/107 (60%) | Ataque:27 | Precision:42%
+  >> ¡Hechizo fuerte!
+Telemnar ataca a Tar-Ciryatan con 10 puntos de danio.
+--------------------------------
+Nombre: Tar-Ciryatan
+Nivel: 5
+Ataque: 27
+Salud: 55 / 107
+[%%%%%%%%%%==========] 51%
+--------------------------------
+Clase: Arquero | Precision: 42%
+
+-- Ronda 84: Ejercito del Sur ataca --
+[Tar-Ciryatan] Nvl:5 | Salud:55/107 (51%) | Ataque:27 | Precision:42%  VS  [Telemnar] Nvl:3 | Salud:86/107 (80%) | Ataque:17 | Mana:48
+Tar-Ciryatan ataca a Telemnar con 27 puntos de danio.
+--------------------------------
+Nombre: Telemnar
+Nivel: 3
+Ataque: 17
+Salud: 59 / 107
+[%%%%%%%%%%%=========] 55%
+--------------------------------
+Clase: Mago | Mana: 48
+
+-- Ronda 85: Ejercito del Norte ataca --
+[Telemnar] Nvl:3 | Salud:59/107 (55%) | Ataque:17 | Mana:48  VS  [Tar-Ciryatan] Nvl:5 | Salud:55/107 (51%) | Ataque:27 | Precision:42%
+Telemnar ataca a Tar-Ciryatan con 7 puntos de danio.
+--------------------------------
+Nombre: Tar-Ciryatan
+Nivel: 5
+Ataque: 27
+Salud: 48 / 107
+[%%%%%%%%============] 44%
+--------------------------------
+Clase: Arquero | Precision: 42%
+
+-- Ronda 86: Ejercito del Sur ataca --
+[Tar-Ciryatan] Nvl:5 | Salud:48/107 (44%) | Ataque:27 | Precision:42%  VS  [Telemnar] Nvl:3 | Salud:59/107 (55%) | Ataque:17 | Mana:48
+Tar-Ciryatan ataca a Telemnar con 14 puntos de danio.
+--------------------------------
+Nombre: Telemnar
+Nivel: 3
+Ataque: 17
+Salud: 45 / 107
+[%%%%%%%%============] 42%
+--------------------------------
+Clase: Mago | Mana: 48
+
+-- Ronda 87: Ejercito del Norte ataca --
+[Telemnar] Nvl:3 | Salud:45/107 (42%) | Ataque:17 | Mana:48  VS  [Tar-Ciryatan] Nvl:5 | Salud:48/107 (44%) | Ataque:27 | Precision:42%
+Telemnar ataca a Tar-Ciryatan con 5 puntos de danio.
+--------------------------------
+Nombre: Tar-Ciryatan
+Nivel: 5
+Ataque: 27
+Salud: 43 / 107
+[%%%%%%%%============] 40%
+--------------------------------
+Clase: Arquero | Precision: 42%
+
+-- Ronda 88: Ejercito del Sur ataca --
+[Tar-Ciryatan] Nvl:5 | Salud:43/107 (40%) | Ataque:27 | Precision:42%  VS  [Telemnar] Nvl:3 | Salud:45/107 (42%) | Ataque:17 | Mana:48
+Tar-Ciryatan ataca a Telemnar con 17 puntos de danio.
+--------------------------------
+Nombre: Telemnar
+Nivel: 3
+Ataque: 17
+Salud: 28 / 107
+[%%%%%===============] 26%
+--------------------------------
+Clase: Mago | Mana: 48
+
+-- Ronda 89: Ejercito del Norte ataca --
+[Telemnar] Nvl:3 | Salud:28/107 (26%) | Ataque:17 | Mana:48  VS  [Tar-Ciryatan] Nvl:5 | Salud:43/107 (40%) | Ataque:27 | Precision:42%
+  >> ¡Hechizo fuerte!
+Telemnar ataca a Tar-Ciryatan con 16 puntos de danio.
+--------------------------------
+Nombre: Tar-Ciryatan
+Nivel: 5
+Ataque: 27
+Salud: 27 / 107
+[%%%%%===============] 25%
+--------------------------------
+Clase: Arquero | Precision: 42%
+
+-- Ronda 90: Ejercito del Sur ataca --
+[Tar-Ciryatan] Nvl:5 | Salud:27/107 (25%) | Ataque:27 | Precision:42%  VS  [Telemnar] Nvl:3 | Salud:28/107 (26%) | Ataque:17 | Mana:28
+  >> ¡Golpe critico!
+Tar-Ciryatan ataca a Telemnar con 39 puntos de danio.
+  >> Telemnar ha caido en batalla.
+--------------------------------
+Nombre: Telemnar
+Nivel: 3
+Ataque: 17
+Salud: 0 / 107
+[====================] 0%
+--------------------------------
+Clase: Mago | Mana: 28

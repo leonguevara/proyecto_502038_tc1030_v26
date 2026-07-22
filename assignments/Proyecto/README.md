@@ -74,12 +74,51 @@ classDiagram
         +mostrar(os: ostream&) ostream&
     }
 
+    class Ejercito {
+        -string nombreEjercito
+        -int maxUnidades
+        -vector~Personaje*~ unidades
+        -int numGuerreros
+        -int numArqueros
+        -int numMagos
+        -Personaje* combatienteActual
+        +Ejercito(maxUnidades: int, nombreEjercito: string)
+        +poblarAleatoriamente(nombresDisponibles: vector~string~&) void
+        +elegirAleatorio() Personaje*
+        +obtenerCombatiente() Personaje*
+        +eliminarSiMuerto(p: Personaje*) void
+        +mostrarComposicion() void
+        +listarElementos() void
+        +getNumGuerreros() int
+        +getNumArqueros() int
+        +getNumMagos() int
+        +getTotalUnidades() int
+        +estaVacio() bool
+        +getNombreEjercito() string
+        +cargarNombres(rutaArchivo: string)$ vector~string~
+    }
+
+    class Batalla {
+        -Ejercito& ejercito1
+        -Ejercito& ejercito2
+        -int turno
+        -int numeroRonda
+        +Batalla(ejercito1: Ejercito&, ejercito2: Ejercito&)
+        +iniciar() void
+        +haTerminado() bool
+        +mostrarGanador() void
+    }
+
     Personaje <|-- Guerrero
     Personaje <|-- Arquero
     Personaje <|-- Mago
+    Ejercito o-- "0..*" Personaje : unidades
+    Batalla o-- "2" Ejercito
 ```
 
 > `Personaje` es una clase **abstracta**: `revive()` es virtual puro (marcado con `*` en el diagrama), por lo que no puede instanciarse directamente, solo a través de `Guerrero`, `Arquero` o `Mago`.
+>
+> `cargarNombres()` está marcado con `$` porque es un método **estático**: no depende de una instancia particular de `Ejercito`, se usa para cargar la lista de nombres una sola vez antes de poblar los ejércitos.
 
 ## Descripción de los métodos de `Personaje` (clase base)
 
@@ -126,3 +165,39 @@ El Mago es una unidad mágica cuyo `mana` (0 a 100) puede potenciar su ataque y 
 - **imprimir()**: llama a `Personaje::imprimir()` y agrega la línea con la clase y el valor de `mana`.
 - **revive()**: si la salud llegó a 0, el `mana` es `> 50` y no ha revivido antes, usa su última reserva de energía mágica para levantarse con 20% de la vida máxima, a cambio de gastar 50 puntos de `mana`. El flag `yaRevivio` limita esto a una sola vez; en cualquier otro caso, el personaje queda muerto.
 - **mostrar(os)**: reutiliza `Personaje::mostrar()` y agrega el valor de `mana`.
+
+## Descripción de los métodos de `Ejercito`
+
+`Ejercito` es dueño de un `vector<Personaje*>` (relación de **composición**: cuando el ejército se destruye, libera la memoria de todos sus integrantes). No se puede copiar (`Ejercito(const Ejercito&) = delete`), precisamente para evitar que dos ejércitos terminen apuntando a los mismos personajes y se intente liberar la misma memoria dos veces.
+
+- **Constructor `Ejercito(maxUnidades, nombreEjercito)`**: guarda el límite de unidades y el nombre del ejército; el vector empieza vacío, se puebla después con `poblarAleatoriamente()`.
+- **poblarAleatoriamente(nombresDisponibles)**: crea hasta `maxUnidades` personajes de tipo aleatorio (Guerrero/Arquero/Mago, con probabilidad igual entre los tres) y estadísticas aleatorias dentro de rangos razonables. Cada personaje toma un nombre al azar de `nombresDisponibles` y lo **elimina** de esa lista, para que dos ejércitos que comparten la misma lista de nombres nunca se repitan un nombre entre sí. Si la lista de nombres se agota antes de llegar a `maxUnidades`, el ejército se queda con menos unidades y se imprime un aviso.
+- **elegirAleatorio()**: regresa un puntero a un elemento aleatorio del vector (o `nullptr` si el ejército está vacío).
+- **obtenerCombatiente()**: regresa el combatiente que sigue peleando por este ejército. Si el combatiente anterior ya tiene 0 de salud (y su `revive()` no lo salvó), lo elimina del vector y elige uno nuevo al azar. Así, un mismo personaje sigue peleando ronda tras ronda hasta que muere de verdad.
+- **eliminarSiMuerto(p)**: si `p` tiene 0 de salud, lo quita del vector, ajusta los contadores por tipo y libera su memoria (`delete`).
+- **mostrarComposicion()**: imprime cuántos Guerreros, Arqueros y Magos tiene el ejército actualmente, y el total.
+- **listarElementos()**: imprime, uno por uno (usando el `operator<<` sobrecargado), todos los elementos que siguen en el ejército.
+- **cargarNombres(rutaArchivo)** *(método estático)*: lee un archivo de texto con un nombre por línea (como `names.txt`) y regresa un `vector<string>`. Se llama una sola vez antes de poblar los ejércitos, y el vector resultante se comparte entre ambos.
+
+## Descripción de los métodos de `Batalla`
+
+`Batalla` **no es dueña** de los ejércitos: los recibe por referencia (`Ejercito&`), ya que ambos existen fuera de la batalla (por ejemplo, en `main`) y deben seguir vivos mientras dura el combate.
+
+- **Constructor `Batalla(ejercito1, ejercito2)`**: guarda las referencias a ambos ejércitos, inicia el turno en el ejército 1 y el contador de rondas en 1.
+- **iniciar()**: corre el ciclo principal de la batalla. Primero muestra en pantalla la composición inicial de ambos ejércitos. Luego, mientras dura el ciclo de combate, redirige `cout` hacia un archivo `simulacion_<timestamp>.txt` (ver sección siguiente), así que todo el detalle ronda por ronda queda documentado ahí en vez de saturar la pantalla. En cada ronda, el ejército en turno obtiene su combatiente (que puede ser uno nuevo si el anterior murió), lo mismo el ejército rival, y el atacante ejecuta `atacar()` sobre el defensor. El turno se alterna después de cada ronda. El ciclo continúa hasta que `haTerminado()` sea verdadero; al terminar, `cout` vuelve a la pantalla y se llama `mostrarGanador()`.
+- **haTerminado()**: regresa `true` si cualquiera de los dos ejércitos se quedó sin elementos (`estaVacio()`).
+- **mostrarGanador()**: al terminar la batalla, imprime cuál ejército ganó (el que no se quedó vacío), o un empate si ambos se vaciaron en la misma ronda.
+- **getArchivoSalida()**: regresa el nombre del archivo donde quedó guardado el detalle de la última batalla corrida (por ejemplo, `simulacion_20260722_220248.txt`).
+
+## Redirección de la salida ronda por ronda hacia un archivo
+
+Para que la pantalla no se sature con decenas de rondas de combate, `Batalla::iniciar()` solo muestra en pantalla la **composición inicial** de ambos ejércitos y, al final, el **ejército ganador**. Todo el detalle intermedio (cada ataque, cada `imprimir()`, cada mensaje de golpe crítico/esquive/hechizo fuerte/revive) se guarda en un archivo de texto llamado `simulacion_<timestamp>.txt` (por ejemplo `simulacion_20260722_220248.txt`), donde el timestamp se genera con la hora local del sistema en el momento de iniciar la batalla.
+
+**¿Cómo se logra sin modificar `Personaje`, `Guerrero`, `Arquero`, `Mago` ni `Ejercito`?** `std::cout` es un objeto que escribe hacia un "buffer" (`std::streambuf`) interno; normalmente ese buffer está conectado a la terminal. `cout.rdbuf(otroBuffer)` permite cambiar ese buffer en tiempo de ejecución, de modo que cualquier `cout <<` posterior —sin importar en qué función o clase esté— empieza a escribir hacia donde apunte el nuevo buffer. Como todos los métodos del proyecto ya usaban `cout <<` internamente, no hizo falta tocarlos: basta con redirigir el buffer antes del ciclo de combate y restaurarlo después.
+
+Para hacer esa redirección seguros, se usa el patrón **RAII** (*Resource Acquisition Is Initialization*) con una clase auxiliar `RedireccionCout` (definida dentro de `Batalla.cpp`, en un namespace anónimo):
+
+- Su **constructor** guarda el buffer original de `cout` y lo cambia hacia el archivo.
+- Su **destructor** restaura el buffer original.
+
+Como en C++ los destructores se ejecutan automáticamente al salir de un bloque `{ }` —incluso si algo lanza una excepción a la mitad de la batalla—, `cout` siempre termina apuntando de vuelta a la pantalla de forma garantizada, sin importar cómo se salga del bloque de combate.
