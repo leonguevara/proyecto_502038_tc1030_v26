@@ -6,8 +6,8 @@
 class Personaje
 {
 private:
-    std::string nombre;   // atributo extra, útil para identificar al personaje
-    int vida;             // puntos de vida MAXIMOS
+    std::string nombre; // atributo extra, útil para identificar al personaje
+    int vida;            // puntos de vida MAXIMOS
     int salud;            // puntos de vida ACTUALES
     int ataque;           // puntos de ataque MAXIMOS
     int nivel;            // nivel del personaje
@@ -16,6 +16,9 @@ public:
     // Constructores
     Personaje();
     Personaje(std::string nombre, int vida, int ataque, int nivel);
+
+    // Destructor virtual: obligatorio al usar herencia con punteros a la base
+    virtual ~Personaje() = default;
 
     // Getters
     std::string getNombre() const;
@@ -38,14 +41,14 @@ public:
     void imprimeBarra() const;
 
     // Calcula cuántos puntos de daño se le harán a 'objetivo' según niveles
-    int calculaAtaque(Personaje& objetivo);
+    virtual int calculaAtaque(Personaje& objetivo);
 
     // Descuenta ptosAtaque a la salud actual, nunca queda negativa
-    void recibeAtaque(int ptosAtaque);
+    virtual void recibeAtaque(int ptosAtaque);
 
     // Ataca a 'objetivo': calcula el daño y se lo aplica
-    void atacar(Personaje& objetivo);
+    virtual void atacar(Personaje& objetivo);
 
     // Imprime en pantalla los datos del personaje y su barra de vida
-    void imprimir() const;
+    virtual void imprimir() const;
 };
