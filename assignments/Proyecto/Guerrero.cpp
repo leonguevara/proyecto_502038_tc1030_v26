@@ -6,12 +6,14 @@ using namespace std;
 Guerrero::Guerrero() : Personaje()
 {
     fuerza = 10;
+    yaRevivio = false;
 }
 
 Guerrero::Guerrero(string nombre, int vida, int ataque, int nivel, int fuerza)
     : Personaje(nombre, vida, ataque, nivel)
 {
     this->fuerza = fuerza;
+    yaRevivio = false;
 }
 
 int Guerrero::getFuerza() const { return fuerza; }
@@ -35,10 +37,40 @@ void Guerrero::recibeAtaque(int ptosAtaque)
     if (danioFinal < 0) danioFinal = 0;
 
     Personaje::recibeAtaque(danioFinal);
+
+    // Despues de aplicar el dano, se evalua si debe revivir o si murio
+    revive();
 }
 
 void Guerrero::imprimir() const
 {
     Personaje::imprimir();
     cout << "Clase: Guerrero | Fuerza: " << fuerza << endl;
+}
+
+void Guerrero::revive()
+{
+    if (getSalud() > 0) return; // sigue con vida, no hay nada que evaluar
+
+    if (!yaRevivio && fuerza >= 25)
+    {
+        yaRevivio = true;
+        int vidaRecuperada = getVida() / 5; // 20% de la vida maxima
+        setSalud(vidaRecuperada);
+        fuerza /= 2; // el costo: pierde la mitad de su fuerza
+
+        cout << "  >> ¡" << getNombre() << " se levanta con furia de batalla! ("
+             << vidaRecuperada << " HP)" << endl;
+    }
+    else
+    {
+        cout << "  >> " << getNombre() << " ha caido en batalla." << endl;
+    }
+}
+
+ostream& Guerrero::mostrar(ostream& os) const
+{
+    Personaje::mostrar(os);
+    os << " | Fuerza:" << fuerza;
+    return os;
 }

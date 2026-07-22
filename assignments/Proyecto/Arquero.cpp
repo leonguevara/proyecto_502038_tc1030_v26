@@ -7,12 +7,14 @@ using namespace std;
 Arquero::Arquero() : Personaje()
 {
     precision = 20.0f;
+    yaRevivio = false;
 }
 
 Arquero::Arquero(string nombre, int vida, int ataque, int nivel, float precision)
     : Personaje(nombre, vida, ataque, nivel)
 {
     this->precision = precision;
+    yaRevivio = false;
 }
 
 float Arquero::getPrecision() const { return precision; }
@@ -47,10 +49,40 @@ void Arquero::recibeAtaque(int ptosAtaque)
     }
 
     Personaje::recibeAtaque(danioFinal);
+
+    // Despues de aplicar el dano, se evalua si debe revivir o si murio
+    revive();
 }
 
 void Arquero::imprimir() const
 {
     Personaje::imprimir();
     cout << "Clase: Arquero | Precision: " << precision << "%" << endl;
+}
+
+void Arquero::revive()
+{
+    if (getSalud() > 0) return; // sigue con vida, no hay nada que evaluar
+
+    if (!yaRevivio && precision >= 30.0f)
+    {
+        yaRevivio = true;
+        int vidaRecuperada = getVida() / 5; // 20% de la vida maxima
+        setSalud(vidaRecuperada);
+        precision /= 2.0f; // el costo: pierde la mitad de su precision
+
+        cout << "  >> ¡" << getNombre() << " esquiva la muerte por pura precision! ("
+             << vidaRecuperada << " HP)" << endl;
+    }
+    else
+    {
+        cout << "  >> " << getNombre() << " ha caido en batalla." << endl;
+    }
+}
+
+ostream& Arquero::mostrar(ostream& os) const
+{
+    Personaje::mostrar(os);
+    os << " | Precision:" << precision << "%";
+    return os;
 }

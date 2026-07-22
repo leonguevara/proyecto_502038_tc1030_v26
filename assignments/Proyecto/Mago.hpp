@@ -7,6 +7,7 @@ class Mago : public Personaje
 {
 private:
     int mana; // 0 a 100
+    bool yaRevivio; // controla que revivir por mana solo pase una vez
 
 public:
     Mago();
@@ -19,11 +20,19 @@ public:
     // y consume mana al usarlo
     int calculaAtaque(Personaje& objetivo) override;
 
-    // Reduce el dano recibido de forma escalonada segun nivel + mana
+    // Reduce el dano recibido de forma escalonada segun nivel + mana;
+    // si la salud llega a 0, se evalua revive()
     void recibeAtaque(int ptosAtaque) override;
 
     // Sobreescribe atacar para recuperar algo de mana si el objetivo muere
     void atacar(Personaje& objetivo) override;
 
     void imprimir() const override;
+
+    // Si tiene mana > 50 y no ha revivido antes, usa su ultima reserva
+    // de energia magica para levantarse con algo de vida
+    void revive() override;
+
+    // Agrega el mana a la representacion usada por operator<<
+    std::ostream& mostrar(std::ostream& os) const override;
 };

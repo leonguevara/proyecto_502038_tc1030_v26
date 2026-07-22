@@ -108,3 +108,19 @@ void Personaje::imprimir() const
     imprimeBarra();
     cout << "--------------------------------" << endl;
 }
+
+// --- Sobrecarga de operador ---
+
+ostream& Personaje::mostrar(ostream& os) const
+{
+    os << "[" << nombre << "] Nvl:" << nivel
+       << " | Salud:" << salud << "/" << vida
+       << " (" << porcentajeSalud() << "%)"
+       << " | Ataque:" << ataque;
+    return os;
+}
+
+ostream& operator<<(ostream& os, const Personaje& p)
+{
+    return p.mostrar(os);
+}

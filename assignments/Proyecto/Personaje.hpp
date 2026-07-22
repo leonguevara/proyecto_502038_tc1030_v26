@@ -1,8 +1,10 @@
 #pragma once
 #include <string>
+#include <iostream>
 
 // Clase base para las unidades de combate del simulador de batallas.
-// Guerrero, Arquero y Mago heredarán de esta clase (siguiente avance).
+// Es abstracta: revive() es virtual puro, asi que no se puede instanciar
+// directamente, solo a traves de sus clases derivadas (Guerrero, Arquero, Mago).
 class Personaje
 {
 private:
@@ -51,4 +53,19 @@ public:
 
     // Imprime en pantalla los datos del personaje y su barra de vida
     virtual void imprimir() const;
+
+    // Virtual puro: si el personaje se queda en 0 de salud, cada clase
+    // derivada decide (segun su atributo especial) si "revive" con algo
+    // de vida o si se queda muerto. Al ser puro, Personaje es abstracta.
+    virtual void revive() = 0;
+
+    // Escribe una representacion breve del personaje en el stream 'os'.
+    // Cada clase derivada la sobreescribe para agregar su atributo especial.
+    // Se usa desde el operator<< sobrecargado para que funcione polimorficamente.
+    virtual std::ostream& mostrar(std::ostream& os) const;
+
+    // Sobrecarga del operador de flujo de salida: permite hacer "cout << personaje"
+    // (o "cout << *punteroAPersonaje") y que se despliegue correctamente sin
+    // importar la subclase real del objeto.
+    friend std::ostream& operator<<(std::ostream& os, const Personaje& p);
 };

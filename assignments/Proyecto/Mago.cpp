@@ -7,12 +7,14 @@ using namespace std;
 Mago::Mago() : Personaje()
 {
     mana = 100;
+    yaRevivio = false;
 }
 
 Mago::Mago(string nombre, int vida, int ataque, int nivel, int mana)
     : Personaje(nombre, vida, ataque, nivel)
 {
     this->mana = mana;
+    yaRevivio = false;
 }
 
 int Mago::getMana() const { return mana; }
@@ -53,6 +55,9 @@ void Mago::recibeAtaque(int ptosAtaque)
         danioFinal = (ptosAtaque * 3) / 4;
 
     Personaje::recibeAtaque(danioFinal);
+
+    // Despues de aplicar el dano, se evalua si debe revivir o si murio
+    revive();
 }
 
 void Mago::atacar(Personaje& objetivo)
@@ -73,4 +78,32 @@ void Mago::imprimir() const
 {
     Personaje::imprimir();
     cout << "Clase: Mago | Mana: " << mana << endl;
+}
+
+void Mago::revive()
+{
+    if (getSalud() > 0) return; // sigue con vida, no hay nada que evaluar
+
+    if (!yaRevivio && mana > 50)
+    {
+        yaRevivio = true;
+        int vidaRecuperada = getVida() / 5; // 20% de la vida maxima
+        setSalud(vidaRecuperada);
+        mana -= 50; // el costo: gasta la mitad de su reserva de mana
+        if (mana < 0) mana = 0;
+
+        cout << "  >> ¡" << getNombre() << " revive gracias a su ultima reserva de mana! ("
+             << vidaRecuperada << " HP)" << endl;
+    }
+    else
+    {
+        cout << "  >> " << getNombre() << " ha caido en batalla." << endl;
+    }
+}
+
+ostream& Mago::mostrar(ostream& os) const
+{
+    Personaje::mostrar(os);
+    os << " | Mana:" << mana;
+    return os;
 }
