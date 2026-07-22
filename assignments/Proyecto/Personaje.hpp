@@ -1,0 +1,1 @@
+// Crear el archivo header de la clase Personaje, no olvides las guardas o el pragma.

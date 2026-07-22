@@ -1,0 +1,1 @@
+//GEnera la implementación de la clase base Personaje
